@@ -4197,3 +4197,1352 @@ Current: 710.000000,-30.000000,330.000000|0.000000,90.000114,0.000000|1.000000,1
 [2019.05.05-17.25.21:292][875]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
 [2019.05.05-17.25.21:441][875]LogSavePackage: Moving '../../../../../../Users/Dragos/Desktop/Sogarde Studios/Black Hat/Black-Hat/Black_Hat/Saved/SideScrollerExampleMapCA862449412B0DC66C42FBA0CE46E960.tmp' to '../../../../../../Users/Dragos/Desktop/Sogarde Studios/Black Hat/Black-Hat/Black_Hat/Content/SideScrollerBP/Maps/SideScrollerExampleMap.umap'
 [2019.05.05-17.25.21:528][875]LogSavePackage: Moving '../../../../../../Users/Dragos/Desktop/Sogarde Studios/Black Hat/Black-Hat/Black_Hat/Saved/SideScrollerExampleMap_BuiltData561D9892441826CBB069BAA5DF3D25C2.tmp' to '../../../../../../Users/Dragos/Desktop/Sogarde Studios/Black Hat/Black-Hat/Black_Hat/Content/SideScrollerBP/Maps/SideScrollerExampleMap_BuiltData.uasset'
+[2019.05.05-17.32.59:534][535]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.05-17.33.08:089][557]LogEditor: Attempting to add actor of class 'CameraRig_Rail' to level at 1410.00,620.00,150.00
+[2019.05.05-17.33.09:185][681]LogEditor: Attempting to add actor of class 'CameraRig_Rail' to level at 1290.00,370.00,150.00
+[2019.05.05-17.33.20:325][956]LogEditorViewport: Clicking on Actor (LMB): CameraRig_Rail (CameraRig_Rail1)
+[2019.05.05-17.33.21:748][123]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.05-17.33.34:044][579]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.05-17.33.50:938][504]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.05-17.34.09:773][735]LogEditorViewport: Clicking on Component (LMB): SceneComponent (TransformComponent)
+[2019.05.05-17.34.09:831][739]LogEditorViewport: Clicking on Actor (double click): CameraRig_Rail (CameraRig_Rail1)
+[2019.05.05-17.34.39:748][275]Cmd: EDCALLBACK SURFPROPS
+[2019.05.05-17.34.40:512][365]LogEditorViewport: Clicking on Actor (LMB): CameraRig_Rail (CameraRig_Rail1)
+[2019.05.05-17.34.42:023][538]LogEditorViewport: Clicking on Actor (LMB): CameraRig_Rail (CameraRig_Rail1)
+[2019.05.05-17.34.44:927][860]LogEditorViewport: Clicking on Actor (LMB): CameraRig_Rail (CameraRig_Rail1)
+[2019.05.05-17.35.00:443][647]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.05-17.35.11:834][981]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.05-17.35.17:408][647]LogTemp: Repeating last play command: Selected Viewport
+[2019.05.05-17.35.17:418][647]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.05.05-17.35.17:418][647]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.05.05-17.35.17:418][647]PIE: New page: PIE session: SideScrollerExampleMap (May 5, 2019, 9:35:17 AM)
+[2019.05.05-17.35.17:418][647]LogPlayLevel: Creating play world package: /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap
+[2019.05.05-17.35.17:425][647]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006803s)
+[2019.05.05-17.35.17:425][647]LogAIModule: Creating AISystem for world SideScrollerExampleMap
+[2019.05.05-17.35.17:425][647]LogPlayLevel: PIE: World Init took: (0.000506s)
+[2019.05.05-17.35.17:425][647]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap to /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap (0.007429s)
+[2019.05.05-17.35.17:455][647]LogUObjectHash: Compacting FUObjectHashTables data took   2.38ms
+[2019.05.05-17.35.17:465][647]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.05.05-17.35.17:491][647]LogInit: FAudioDevice initialized.
+[2019.05.05-17.35.17:521][647]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2019.05.05-17.35.17:523][647]LogWorld: Bringing World /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap up for play (max tick rate 0) at 2019.05.05-13.35.17
+[2019.05.05-17.35.17:524][647]LogWorld: Bringing up level for play took: 0.001919
+[2019.05.05-17.35.17:536][647]PIE: Play in editor start time for /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap -0.597
+[2019.05.05-17.35.17:537][647]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.05.05-17.35.22:549][246]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.05.05-17.35.22:549][246]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.05-17.35.22:582][246]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.05.05-17.35.22:582][246]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.05.05-17.35.22:614][246]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.05-17.35.22:617][246]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2019.05.05-17.35.22:655][249]LogPlayLevel: Display: Destroying online subsystem :Context_99
+[2019.05.05-17.35.23:928][397]Cmd: SELECT NONE
+[2019.05.05-17.35.24:282][439]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.05-17.35.24:365][449]LogTemp: Repeating last play command: Selected Viewport
+[2019.05.05-17.35.24:375][449]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.05.05-17.35.24:375][449]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.05.05-17.35.24:375][449]PIE: New page: PIE session: SideScrollerExampleMap (May 5, 2019, 9:35:24 AM)
+[2019.05.05-17.35.24:375][449]LogPlayLevel: Creating play world package: /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap
+[2019.05.05-17.35.24:380][449]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005612s)
+[2019.05.05-17.35.24:381][449]LogAIModule: Creating AISystem for world SideScrollerExampleMap
+[2019.05.05-17.35.24:381][449]LogPlayLevel: PIE: World Init took: (0.000384s)
+[2019.05.05-17.35.24:381][449]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap to /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap (0.006095s)
+[2019.05.05-17.35.24:408][449]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2019.05.05-17.35.24:418][449]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.05.05-17.35.24:442][449]LogInit: FAudioDevice initialized.
+[2019.05.05-17.35.24:471][449]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2019.05.05-17.35.24:473][449]LogWorld: Bringing World /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap up for play (max tick rate 0) at 2019.05.05-13.35.24
+[2019.05.05-17.35.24:474][449]LogWorld: Bringing up level for play took: 0.001860
+[2019.05.05-17.35.24:485][449]PIE: Play in editor start time for /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap 0.352
+[2019.05.05-17.35.24:485][449]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.05.05-17.35.25:650][587]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.05.05-17.35.25:650][587]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.05-17.35.25:680][587]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.05.05-17.35.25:680][587]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.05.05-17.35.25:710][587]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.05-17.35.25:713][587]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2019.05.05-17.35.25:754][589]LogPlayLevel: Display: Destroying online subsystem :Context_100
+[2019.05.05-17.35.26:861][717]LogEditorViewport: Clicking on Actor (LMB): CameraRig_Rail (CameraRig_Rail1)
+[2019.05.05-17.35.27:858][833]Cmd: DELETE
+[2019.05.05-17.35.27:858][833]Cmd: ACTOR DELETE
+[2019.05.05-17.35.27:860][833]LogEditorActor: Deleted Actor: CameraRig_Rail
+[2019.05.05-17.35.27:885][833]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2019.05.05-17.35.27:886][833]LogEditorActor: Deleted 1 Actors (0.028 secs)
+[2019.05.05-17.35.28:420][897]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.05-17.35.28:511][908]LogTemp: Repeating last play command: Selected Viewport
+[2019.05.05-17.35.28:521][908]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.05.05-17.35.28:521][908]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.05.05-17.35.28:521][908]PIE: New page: PIE session: SideScrollerExampleMap (May 5, 2019, 9:35:28 AM)
+[2019.05.05-17.35.28:521][908]LogPlayLevel: Creating play world package: /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap
+[2019.05.05-17.35.28:526][908]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005585s)
+[2019.05.05-17.35.28:527][908]LogAIModule: Creating AISystem for world SideScrollerExampleMap
+[2019.05.05-17.35.28:527][908]LogPlayLevel: PIE: World Init took: (0.000390s)
+[2019.05.05-17.35.28:527][908]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap to /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap (0.006076s)
+[2019.05.05-17.35.28:553][908]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2019.05.05-17.35.28:562][908]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.05.05-17.35.28:588][908]LogInit: FAudioDevice initialized.
+[2019.05.05-17.35.28:616][908]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2019.05.05-17.35.28:618][908]LogWorld: Bringing World /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap up for play (max tick rate 0) at 2019.05.05-13.35.28
+[2019.05.05-17.35.28:619][908]LogWorld: Bringing up level for play took: 0.001817
+[2019.05.05-17.35.28:630][908]PIE: Play in editor start time for /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap 0.497
+[2019.05.05-17.35.28:630][908]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.05.05-17.35.31:591][261]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.05-17.35.37:047][914]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.05.05-17.35.37:047][914]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.05-17.35.37:077][914]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.05.05-17.35.37:077][914]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.05.05-17.35.37:107][914]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.05-17.35.37:110][914]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2019.05.05-17.35.37:148][917]LogPlayLevel: Display: Destroying online subsystem :Context_101
+[2019.05.05-17.35.56:828][656]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.05-17.35.58:159][811]Cmd: SELECT NONE
+[2019.05.05-17.36.04:484][562]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.05-17.36.26:877][ 78]LogSkeletalMesh: Building Skeletal Mesh SKM_Door_wide...
+[2019.05.05-17.36.26:878][ 78]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/HQ_ResidentialHouse/Meshes/DoorWide/SKM_Door_wide.SKM_Door_wide
+[2019.05.05-17.36.30:803][509]Cmd: SELECT NONE
+[2019.05.05-17.36.34:068][880]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (SKM_Door_wide)
+[2019.05.05-17.36.39:083][414]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.05-17.36.51:026][689]Cmd: TRANSACTION UNDO
+[2019.05.05-17.36.51:026][689]LogEditorTransaction: Undo Select Brush Surface
+[2019.05.05-17.36.51:329][704]Cmd: TRANSACTION UNDO
+[2019.05.05-17.36.51:329][704]LogEditorTransaction: Undo Set Location
+[2019.05.05-17.36.51:633][726]Cmd: TRANSACTION UNDO
+[2019.05.05-17.36.51:633][726]LogEditorTransaction: Undo Set Location
+[2019.05.05-17.36.51:953][759]Cmd: TRANSACTION UNDO
+[2019.05.05-17.36.51:953][759]LogEditorTransaction: Undo Set Location
+[2019.05.05-17.36.52:986][873]Cmd: TRANSACTION UNDO
+[2019.05.05-17.36.52:986][873]LogEditorTransaction: Undo Move Actors
+[2019.05.05-17.36.56:522][214]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.05-17.37.02:123][803]LogTemp: Repeating last play command: Selected Viewport
+[2019.05.05-17.37.02:133][803]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.05.05-17.37.02:133][803]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.05.05-17.37.02:133][803]PIE: New page: PIE session: SideScrollerExampleMap (May 5, 2019, 9:37:02 AM)
+[2019.05.05-17.37.02:133][803]LogPlayLevel: Creating play world package: /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap
+[2019.05.05-17.37.02:139][803]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005908s)
+[2019.05.05-17.37.02:139][803]LogAIModule: Creating AISystem for world SideScrollerExampleMap
+[2019.05.05-17.37.02:140][803]LogPlayLevel: PIE: World Init took: (0.000427s)
+[2019.05.05-17.37.02:140][803]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap to /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap (0.006448s)
+[2019.05.05-17.37.02:167][803]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2019.05.05-17.37.02:177][803]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.05.05-17.37.02:200][803]LogInit: FAudioDevice initialized.
+[2019.05.05-17.37.02:226][803]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2019.05.05-17.37.02:228][803]LogWorld: Bringing World /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap up for play (max tick rate 0) at 2019.05.05-13.37.02
+[2019.05.05-17.37.02:228][803]LogWorld: Bringing up level for play took: 0.001766
+[2019.05.05-17.37.02:240][803]PIE: Play in editor start time for /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap 0.107
+[2019.05.05-17.37.02:240][803]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.05.05-17.37.03:656][969]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.05.05-17.37.03:657][969]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.05-17.37.03:689][969]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.05.05-17.37.03:689][969]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.05.05-17.37.03:718][969]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.05-17.37.03:721][969]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2019.05.05-17.37.03:765][971]LogPlayLevel: Display: Destroying online subsystem :Context_103
+[2019.05.05-17.37.06:272][247]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (SKM_Door_wide)
+[2019.05.05-17.37.07:814][413]Cmd: DELETE
+[2019.05.05-17.37.07:814][413]Cmd: ACTOR DELETE
+[2019.05.05-17.37.07:816][413]LogEditorActor: Deleted Actor: SkeletalMeshActor
+[2019.05.05-17.37.07:844][413]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2019.05.05-17.37.07:845][413]LogEditorActor: Deleted 1 Actors (0.030 secs)
+[2019.05.05-17.37.08:826][522]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.05-17.37.08:892][529]LogSkeletalMesh: Building Skeletal Mesh SKM_Door_narrow...
+[2019.05.05-17.37.08:893][529]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/HQ_ResidentialHouse/Meshes/DoorNarrow/SKM_Door_narrow.SKM_Door_narrow
+[2019.05.05-17.37.13:289][ 25]Cmd: SELECT NONE
+[2019.05.05-17.37.14:372][133]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.05-17.37.14:455][143]LogTemp: Repeating last play command: Selected Viewport
+[2019.05.05-17.37.14:465][143]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.05.05-17.37.14:465][143]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.05.05-17.37.14:465][143]PIE: New page: PIE session: SideScrollerExampleMap (May 5, 2019, 9:37:14 AM)
+[2019.05.05-17.37.14:465][143]LogPlayLevel: Creating play world package: /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap
+[2019.05.05-17.37.14:470][143]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005563s)
+[2019.05.05-17.37.14:471][143]LogAIModule: Creating AISystem for world SideScrollerExampleMap
+[2019.05.05-17.37.14:471][143]LogPlayLevel: PIE: World Init took: (0.000408s)
+[2019.05.05-17.37.14:471][143]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap to /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap (0.006074s)
+[2019.05.05-17.37.14:498][143]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2019.05.05-17.37.14:508][143]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.05.05-17.37.14:532][143]LogInit: FAudioDevice initialized.
+[2019.05.05-17.37.14:557][143]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2019.05.05-17.37.14:559][143]LogWorld: Bringing World /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap up for play (max tick rate 0) at 2019.05.05-13.37.14
+[2019.05.05-17.37.14:560][143]LogWorld: Bringing up level for play took: 0.001745
+[2019.05.05-17.37.14:571][143]PIE: Play in editor start time for /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap 0.437
+[2019.05.05-17.37.14:571][143]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.05.05-17.37.16:214][337]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.05.05-17.37.16:214][337]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.05-17.37.16:247][337]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.05.05-17.37.16:248][337]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.05.05-17.37.16:277][337]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.05-17.37.16:280][337]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2019.05.05-17.37.16:314][339]LogPlayLevel: Display: Destroying online subsystem :Context_104
+[2019.05.05-17.37.18:092][520]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (SKM_Door_narrow)
+[2019.05.05-17.37.23:240][ 70]Cmd: SELECT NONE
+[2019.05.05-17.37.27:314][538]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.05-17.37.27:389][547]LogTemp: Repeating last play command: Selected Viewport
+[2019.05.05-17.37.27:398][547]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.05.05-17.37.27:399][547]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.05.05-17.37.27:399][547]PIE: New page: PIE session: SideScrollerExampleMap (May 5, 2019, 9:37:27 AM)
+[2019.05.05-17.37.27:399][547]LogPlayLevel: Creating play world package: /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap
+[2019.05.05-17.37.27:405][547]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006215s)
+[2019.05.05-17.37.27:405][547]LogAIModule: Creating AISystem for world SideScrollerExampleMap
+[2019.05.05-17.37.27:405][547]LogPlayLevel: PIE: World Init took: (0.000388s)
+[2019.05.05-17.37.27:405][547]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap to /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap (0.006705s)
+[2019.05.05-17.37.27:432][547]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2019.05.05-17.37.27:442][547]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.05.05-17.37.27:468][547]LogInit: FAudioDevice initialized.
+[2019.05.05-17.37.27:498][547]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2019.05.05-17.37.27:500][547]LogWorld: Bringing World /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap up for play (max tick rate 0) at 2019.05.05-13.37.27
+[2019.05.05-17.37.27:500][547]LogWorld: Bringing up level for play took: 0.001983
+[2019.05.05-17.37.27:512][547]PIE: Play in editor start time for /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap -0.621
+[2019.05.05-17.37.27:513][547]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.05.05-17.37.29:078][731]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.05.05-17.37.29:078][731]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.05-17.37.29:114][731]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.05.05-17.37.29:114][731]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.05.05-17.37.29:145][731]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.05-17.37.29:148][731]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2019.05.05-17.37.29:180][733]LogPlayLevel: Display: Destroying online subsystem :Context_105
+[2019.05.05-17.37.29:693][793]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (SKM_Door_narrow)
+[2019.05.05-17.37.31:820][ 19]Cmd: SELECT NONE
+[2019.05.05-17.37.32:861][142]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.05-17.37.32:927][150]LogTemp: Repeating last play command: Selected Viewport
+[2019.05.05-17.37.32:936][150]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.05.05-17.37.32:937][150]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.05.05-17.37.32:937][150]PIE: New page: PIE session: SideScrollerExampleMap (May 5, 2019, 9:37:32 AM)
+[2019.05.05-17.37.32:937][150]LogPlayLevel: Creating play world package: /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap
+[2019.05.05-17.37.32:942][150]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005491s)
+[2019.05.05-17.37.32:943][150]LogAIModule: Creating AISystem for world SideScrollerExampleMap
+[2019.05.05-17.37.32:943][150]LogPlayLevel: PIE: World Init took: (0.000444s)
+[2019.05.05-17.37.32:943][150]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap to /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap (0.006058s)
+[2019.05.05-17.37.32:971][150]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2019.05.05-17.37.32:981][150]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.05.05-17.37.33:006][150]LogInit: FAudioDevice initialized.
+[2019.05.05-17.37.33:036][150]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2019.05.05-17.37.33:038][150]LogWorld: Bringing World /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap up for play (max tick rate 0) at 2019.05.05-13.37.33
+[2019.05.05-17.37.33:038][150]LogWorld: Bringing up level for play took: 0.001740
+[2019.05.05-17.37.33:050][150]PIE: Play in editor start time for /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap 0.917
+[2019.05.05-17.37.33:050][150]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.05.05-17.37.35:253][411]LogSlate: Window 'SideScrollerCharacter' being destroyed
+[2019.05.05-17.37.35:256][411]LogSlate: Window 'SideScrollerCharacter' being destroyed
+[2019.05.05-17.37.43:548][616]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.05.05-17.37.43:548][616]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.05-17.37.43:574][616]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.05.05-17.37.43:574][616]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.05.05-17.37.43:602][616]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.05-17.37.43:607][616]LogUObjectHash: Compacting FUObjectHashTables data took   2.13ms
+[2019.05.05-17.37.43:653][621]LogPlayLevel: Display: Destroying online subsystem :Context_106
+[2019.05.05-17.37.46:827][999]Cmd: SELECT NONE
+[2019.05.05-17.37.50:825][475]Cmd: SELECT NONE
+[2019.05.05-17.37.51:453][542]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.05-17.38.18:820][918]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2019.05.05-17.38.19:000][918]LogSavePackage: Moving '../../../../../../Users/Dragos/Desktop/Sogarde Studios/Black Hat/Black-Hat/Black_Hat/Saved/SideScrollerExampleMap_Auto74540DE2143B1AFDD229AA19A26181027.tmp' to '../../../../../../Users/Dragos/Desktop/Sogarde Studios/Black Hat/Black-Hat/Black_Hat/Saved/Autosaves/Game/SideScrollerBP/Maps/SideScrollerExampleMap_Auto7.umap'
+[2019.05.05-17.38.19:004][918]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/SideScrollerBP/Maps/SideScrollerExampleMap' took 0.241
+[2019.05.05-17.38.19:004][918]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.241
+[2019.05.05-17.45.33:232][263]LogAssetEditorManager: Opening Asset editor for Material /Game/Materials/Highlight.Highlight
+[2019.05.05-17.45.33:239][263]LogMaterial: Display: Missing cached shader map for material Highlight, compiling. 
+[2019.05.05-17.45.33:295][263]LogMaterial: Display: Missing cached shader map for material Highlight, compiling. 
+[2019.05.05-17.45.33:309][263]LogMaterial: Display: Missing cached shader map for material Highlight, compiling. 
+[2019.05.05-17.45.33:335][263]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.05.05-17.45.35:154][390]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.05.05-17.45.39:598][879]MaterialEditorStats: Base pass shader: 107 instructions
+[2019.05.05-17.45.39:598][879]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 181 instructions
+[2019.05.05-17.45.39:598][879]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2019.05.05-17.45.39:598][879]MaterialEditorStats: Texture samplers: 3/16
+[2019.05.05-17.45.41:878][150]LogMaterial: Display: Missing cached shader map for material Highlight, compiling. 
+[2019.05.05-17.45.41:898][151]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.05.05-17.45.44:176][407]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.05.05-17.45.44:180][407]LogMaterial: Display: Missing cached shader map for material Highlight, compiling. 
+[2019.05.05-17.45.45:299][524]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.05.05-17.45.47:863][805]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.05.05-17.45.49:327][965]LogMaterial: Display: Missing cached shader map for material Highlight, compiling. 
+[2019.05.05-17.45.50:057][ 43]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.05.05-17.45.52:098][206]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.05.05-17.45.53:759][272]MaterialEditorStats: Base pass shader: 107 instructions
+[2019.05.05-17.45.53:759][272]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 181 instructions
+[2019.05.05-17.45.53:759][272]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2019.05.05-17.45.53:759][272]MaterialEditorStats: Texture samplers: 3/16
+[2019.05.05-17.45.54:064][308]LogMaterial: Display: Missing cached shader map for material Highlight, compiling. 
+[2019.05.05-17.45.54:075][308]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.05.05-17.45.55:195][428]LogMaterial: Display: Missing cached shader map for material Highlight, compiling. 
+[2019.05.05-17.45.55:195][428]LogMaterial: Warning: /Engine/Transient.Highlight (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.05.05-17.45.55:195][428]LogMaterial: 	Volume materials must use an Additive blend mode.
+[2019.05.05-17.45.55:202][428]LogMaterial: Display: Missing cached shader map for material Highlight, compiling. 
+[2019.05.05-17.45.55:202][428]LogMaterial: Warning: /Engine/Transient.Highlight (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.05.05-17.45.55:202][428]LogMaterial: 	Volume materials must use an Additive blend mode.
+[2019.05.05-17.45.55:205][428]LogMaterial: Display: Missing cached shader map for material Highlight, compiling. 
+[2019.05.05-17.45.55:206][428]LogMaterial: Warning: /Engine/Transient.Highlight (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.05.05-17.45.55:206][428]LogMaterial: 	Volume materials must use an Additive blend mode.
+[2019.05.05-17.45.55:208][428]MaterialEditorStats: Error: [SM5] Volume materials must use an Additive blend mode.
+[2019.05.05-17.45.56:029][519]LogMaterial: Display: Missing cached shader map for material Highlight, compiling. 
+[2019.05.05-17.45.56:030][519]LogMaterial: Warning: /Engine/Transient.Highlight (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.05.05-17.45.56:030][519]LogMaterial: 	Volume materials must use an Additive blend mode.
+[2019.05.05-17.45.56:901][621]LogMaterial: Display: Missing cached shader map for material Highlight, compiling. 
+[2019.05.05-17.45.56:912][621]LogMaterial: Display: Missing cached shader map for material Highlight, compiling. 
+[2019.05.05-17.45.56:919][621]LogMaterial: Display: Missing cached shader map for material Highlight, compiling. 
+[2019.05.05-17.45.59:152][860]MaterialEditorStats: Base pass shader without light map: 32 instructions
+[2019.05.05-17.45.59:152][860]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2019.05.05-17.45.59:152][860]MaterialEditorStats: Texture samplers: 0/16
+[2019.05.05-17.46.19:376][857]LogMaterial: Display: Missing cached shader map for material Highlight, compiling. 
+[2019.05.05-17.46.20:736][991]LogMaterial: Display: Missing cached shader map for material Highlight, compiling. 
+[2019.05.05-17.46.20:743][991]LogMaterial: Display: Missing cached shader map for material Highlight, compiling. 
+[2019.05.05-17.46.20:749][991]LogMaterial: Display: Missing cached shader map for material Highlight, compiling. 
+[2019.05.05-17.46.22:592][185]MaterialEditorStats: Base pass shader without light map: 32 instructions
+[2019.05.05-17.46.22:592][185]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2019.05.05-17.46.22:592][185]MaterialEditorStats: Texture samplers: 0/16
+[2019.05.05-17.46.27:826][804]LogMaterial: Display: Missing cached shader map for material Highlight, compiling. 
+[2019.05.05-17.46.29:051][938]MaterialEditorStats: Base pass shader without light map: 32 instructions
+[2019.05.05-17.46.29:051][938]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2019.05.05-17.46.29:051][938]MaterialEditorStats: Texture samplers: 0/16
+[2019.05.05-17.46.33:996][517]LogMaterial: Display: Missing cached shader map for material Highlight, compiling. 
+[2019.05.05-17.46.34:006][517]LogMaterial: Display: Missing cached shader map for material Highlight, compiling. 
+[2019.05.05-17.46.35:356][665]MaterialEditorStats: Base pass shader without light map: 32 instructions
+[2019.05.05-17.46.35:356][665]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2019.05.05-17.46.35:356][665]MaterialEditorStats: Texture samplers: 0/16
+[2019.05.05-17.46.40:274][246]LogMaterial: Display: Missing cached shader map for material Highlight, compiling. 
+[2019.05.05-17.46.40:281][246]LogMaterial: Display: Missing cached shader map for material Highlight, compiling. 
+[2019.05.05-17.46.42:079][435]MaterialEditorStats: Base pass shader without light map: 32 instructions
+[2019.05.05-17.46.42:079][435]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2019.05.05-17.46.42:079][435]MaterialEditorStats: Texture samplers: 0/16
+[2019.05.05-17.46.49:175][270]LogMaterial: Display: Missing cached shader map for material Highlight, compiling. 
+[2019.05.05-17.46.49:181][270]LogMaterial: Display: Missing cached shader map for material Highlight, compiling. 
+[2019.05.05-17.46.49:853][345]LogMaterial: Display: Missing cached shader map for material Highlight, compiling. 
+[2019.05.05-17.46.49:859][345]LogMaterial: Display: Missing cached shader map for material Highlight, compiling. 
+[2019.05.05-17.46.51:253][493]LogMaterial: Display: Missing cached shader map for material Highlight, compiling. 
+[2019.05.05-17.46.52:871][662]MaterialEditorStats: Base pass shader without light map: 32 instructions
+[2019.05.05-17.46.52:872][662]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2019.05.05-17.46.52:872][662]MaterialEditorStats: Texture samplers: 0/16
+[2019.05.05-17.46.55:502][970]LogMaterial: Display: Missing cached shader map for material Highlight, compiling. 
+[2019.05.05-17.46.55:508][970]LogMaterial: Display: Missing cached shader map for material Highlight, compiling. 
+[2019.05.05-17.46.57:037][133]MaterialEditorStats: Base pass shader without light map: 32 instructions
+[2019.05.05-17.46.57:037][133]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2019.05.05-17.46.57:037][133]MaterialEditorStats: Texture samplers: 0/16
+[2019.05.05-17.47.02:884][823]LogMaterial: Display: Missing cached shader map for material Highlight, compiling. 
+[2019.05.05-17.47.04:032][952]LogMaterial: Display: Missing cached shader map for material Highlight, compiling. 
+[2019.05.05-17.47.05:859][154]MaterialEditorStats: Base pass shader without light map: 32 instructions
+[2019.05.05-17.47.05:859][154]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2019.05.05-17.47.05:859][154]MaterialEditorStats: Texture samplers: 0/16
+[2019.05.05-17.47.07:390][332]LogMaterial: Display: Missing cached shader map for material Highlight, compiling. 
+[2019.05.05-17.47.08:624][465]MaterialEditorStats: Base pass shader without light map: 32 instructions
+[2019.05.05-17.47.08:624][465]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2019.05.05-17.47.08:624][465]MaterialEditorStats: Texture samplers: 0/16
+[2019.05.05-17.47.18:933][696]LogMaterial: Display: Missing cached shader map for material Highlight, compiling. 
+[2019.05.05-17.47.20:609][880]MaterialEditorStats: Base pass shader without light map: 32 instructions
+[2019.05.05-17.47.20:609][880]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2019.05.05-17.47.20:609][880]MaterialEditorStats: Texture samplers: 0/16
+[2019.05.05-17.47.27:212][666]LogMaterial: Display: Missing cached shader map for material Highlight, compiling. 
+[2019.05.05-17.47.27:218][666]LogMaterial: Display: Missing cached shader map for material Highlight, compiling. 
+[2019.05.05-17.47.28:505][806]MaterialEditorStats: Base pass shader without light map: 32 instructions
+[2019.05.05-17.47.28:505][806]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2019.05.05-17.47.28:505][806]MaterialEditorStats: Texture samplers: 0/16
+[2019.05.05-17.47.30:432][ 33]LogMaterial: Display: Missing cached shader map for material Highlight, compiling. 
+[2019.05.05-17.47.31:806][185]MaterialEditorStats: Base pass shader without light map: 32 instructions
+[2019.05.05-17.47.31:806][185]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2019.05.05-17.47.31:806][185]MaterialEditorStats: Texture samplers: 0/16
+[2019.05.05-17.47.42:107][407]LogMaterial: Display: Missing cached shader map for material Highlight, compiling. 
+[2019.05.05-17.47.43:939][595]MaterialEditorStats: Base pass shader without light map: 32 instructions
+[2019.05.05-17.47.43:939][595]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2019.05.05-17.47.43:939][595]MaterialEditorStats: Texture samplers: 0/16
+[2019.05.05-17.47.43:975][599]LogMaterial: Display: Missing cached shader map for material Highlight, compiling. 
+[2019.05.05-17.47.45:479][760]MaterialEditorStats: Base pass shader without light map: 32 instructions
+[2019.05.05-17.47.45:479][760]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2019.05.05-17.47.45:479][760]MaterialEditorStats: Texture samplers: 0/16
+[2019.05.05-17.47.47:693][ 21]LogMaterial: Display: Missing cached shader map for material Highlight, compiling. 
+[2019.05.05-17.47.49:173][175]MaterialEditorStats: Base pass shader without light map: 32 instructions
+[2019.05.05-17.47.49:173][175]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2019.05.05-17.47.49:173][175]MaterialEditorStats: Texture samplers: 0/16
+[2019.05.05-17.47.50:105][286]LogMaterial: Display: Missing cached shader map for material Highlight, compiling. 
+[2019.05.05-17.47.51:670][454]MaterialEditorStats: Base pass shader without light map: 32 instructions
+[2019.05.05-17.47.51:670][454]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2019.05.05-17.47.51:670][454]MaterialEditorStats: Texture samplers: 0/16
+[2019.05.05-17.47.56:526][ 23]LogMaterial: Display: Missing cached shader map for material Highlight, compiling. 
+[2019.05.05-17.47.56:532][ 23]LogMaterial: Display: Missing cached shader map for material Highlight, compiling. 
+[2019.05.05-17.47.57:937][169]MaterialEditorStats: Base pass shader without light map: 32 instructions
+[2019.05.05-17.47.57:937][169]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2019.05.05-17.47.57:937][169]MaterialEditorStats: Texture samplers: 0/16
+[2019.05.05-17.47.59:773][387]LogMaterial: Display: Missing cached shader map for material Highlight, compiling. 
+[2019.05.05-17.47.59:779][387]LogMaterial: Display: Missing cached shader map for material Highlight, compiling. 
+[2019.05.05-17.48.01:285][547]MaterialEditorStats: Base pass shader without light map: 32 instructions
+[2019.05.05-17.48.01:285][547]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2019.05.05-17.48.01:285][547]MaterialEditorStats: Texture samplers: 0/16
+[2019.05.05-17.48.11:683][773]LogMaterial: Display: Missing cached shader map for material Highlight, compiling. 
+[2019.05.05-17.48.11:690][773]LogMaterial: Display: Missing cached shader map for material Highlight, compiling. 
+[2019.05.05-17.48.13:611][973]MaterialEditorStats: Base pass shader without light map: 32 instructions
+[2019.05.05-17.48.13:611][973]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2019.05.05-17.48.13:611][973]MaterialEditorStats: Texture samplers: 0/16
+[2019.05.05-17.48.16:570][321]LogMaterial: Display: Missing cached shader map for material Highlight, compiling. 
+[2019.05.05-17.48.17:925][463]MaterialEditorStats: Base pass shader without light map: 32 instructions
+[2019.05.05-17.48.17:925][463]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2019.05.05-17.48.17:925][463]MaterialEditorStats: Texture samplers: 0/16
+[2019.05.05-17.48.21:034][832]LogMaterial: Display: Missing cached shader map for material Highlight, compiling. 
+[2019.05.05-17.48.23:000][ 36]MaterialEditorStats: Base pass shader without light map: 32 instructions
+[2019.05.05-17.48.23:000][ 36]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2019.05.05-17.48.23:000][ 36]MaterialEditorStats: Texture samplers: 0/16
+[2019.05.05-17.48.27:928][612]LogMaterial: Display: Missing cached shader map for material Highlight, compiling. 
+[2019.05.05-17.48.27:938][612]LogMaterial: Display: Missing cached shader map for material Highlight, compiling. 
+[2019.05.05-17.48.29:443][765]MaterialEditorStats: Base pass shader without light map: 32 instructions
+[2019.05.05-17.48.29:443][765]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2019.05.05-17.48.29:443][765]MaterialEditorStats: Texture samplers: 0/16
+[2019.05.05-17.48.36:128][473]LogMaterial: Display: Missing cached shader map for material Highlight, compiling. 
+[2019.05.05-17.48.37:627][641]MaterialEditorStats: Base pass shader without light map: 32 instructions
+[2019.05.05-17.48.37:627][641]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2019.05.05-17.48.37:627][641]MaterialEditorStats: Texture samplers: 0/16
+[2019.05.05-17.48.40:312][961]LogMaterial: Display: Missing cached shader map for material Highlight, compiling. 
+[2019.05.05-17.48.41:877][ 28]MaterialEditorStats: Base pass shader without light map: 32 instructions
+[2019.05.05-17.48.41:877][ 28]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2019.05.05-17.48.41:877][ 28]MaterialEditorStats: Texture samplers: 0/16
+[2019.05.05-17.48.49:217][805]LogMaterial: Display: Missing cached shader map for material Highlight, compiling. 
+[2019.05.05-17.48.51:012][994]MaterialEditorStats: Base pass shader without light map: 32 instructions
+[2019.05.05-17.48.51:012][994]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2019.05.05-17.48.51:012][994]MaterialEditorStats: Texture samplers: 0/16
+[2019.05.05-17.48.53:417][278]LogMaterial: Display: Missing cached shader map for material Highlight, compiling. 
+[2019.05.05-17.48.53:423][278]LogMaterial: Display: Missing cached shader map for material Highlight, compiling. 
+[2019.05.05-17.48.54:714][410]MaterialEditorStats: Base pass shader without light map: 32 instructions
+[2019.05.05-17.48.54:714][410]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2019.05.05-17.48.54:714][410]MaterialEditorStats: Texture samplers: 0/16
+[2019.05.05-17.48.54:734][412]LogMaterial: Display: Missing cached shader map for material Highlight, compiling. 
+[2019.05.05-17.48.54:740][412]LogMaterial: Display: Missing cached shader map for material Highlight, compiling. 
+[2019.05.05-17.48.56:318][574]MaterialEditorStats: Base pass shader without light map: 32 instructions
+[2019.05.05-17.48.56:318][574]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2019.05.05-17.48.56:318][574]MaterialEditorStats: Texture samplers: 0/16
+[2019.05.05-17.48.57:117][668]LogMaterial: Display: Missing cached shader map for material Highlight, compiling. 
+[2019.05.05-17.48.58:641][824]MaterialEditorStats: Base pass shader without light map: 32 instructions
+[2019.05.05-17.48.58:641][824]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2019.05.05-17.48.58:641][824]MaterialEditorStats: Texture samplers: 0/16
+[2019.05.05-17.49.02:773][308]LogMaterial: Display: Missing cached shader map for material Highlight, compiling. 
+[2019.05.05-17.49.03:973][431]MaterialEditorStats: Base pass shader without light map: 32 instructions
+[2019.05.05-17.49.03:973][431]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2019.05.05-17.49.03:973][431]MaterialEditorStats: Texture samplers: 0/16
+[2019.05.05-17.49.17:118][517]LogMaterial: Display: Missing cached shader map for material Highlight, compiling. 
+[2019.05.05-17.49.17:125][517]LogMaterial: Display: Missing cached shader map for material Highlight, compiling. 
+[2019.05.05-17.49.18:195][623]LogMaterial: Display: Missing cached shader map for material Highlight, compiling. 
+[2019.05.05-17.49.20:052][814]MaterialEditorStats: Base pass shader without light map: 32 instructions
+[2019.05.05-17.49.20:052][814]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2019.05.05-17.49.20:052][814]MaterialEditorStats: Texture samplers: 0/16
+[2019.05.05-17.49.23:050][168]LogMaterial: Display: Missing cached shader map for material Highlight, compiling. 
+[2019.05.05-17.49.23:056][168]LogMaterial: Display: Missing cached shader map for material Highlight, compiling. 
+[2019.05.05-17.49.24:952][297]MaterialEditorStats: Base pass shader without light map: 32 instructions
+[2019.05.05-17.49.24:952][297]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2019.05.05-17.49.24:952][297]MaterialEditorStats: Texture samplers: 0/16
+[2019.05.05-17.49.27:730][306]LogMaterial: Display: Missing cached shader map for material Highlight, compiling. 
+[2019.05.05-17.49.28:254][333]MaterialEditorStats: Base pass shader without light map: 32 instructions
+[2019.05.05-17.49.28:254][333]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2019.05.05-17.49.28:254][333]MaterialEditorStats: Texture samplers: 0/16
+[2019.05.05-17.49.29:338][459]LogMaterial: Display: Missing cached shader map for material Highlight, compiling. 
+[2019.05.05-17.49.30:776][607]MaterialEditorStats: Base pass shader without light map: 32 instructions
+[2019.05.05-17.49.30:776][607]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2019.05.05-17.49.30:776][607]MaterialEditorStats: Texture samplers: 0/16
+[2019.05.05-17.49.31:702][714]LogMaterial: Display: Missing cached shader map for material Highlight, compiling. 
+[2019.05.05-17.49.33:037][853]MaterialEditorStats: Base pass shader without light map: 32 instructions
+[2019.05.05-17.49.33:037][853]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2019.05.05-17.49.33:037][853]MaterialEditorStats: Texture samplers: 0/16
+[2019.05.05-17.49.36:201][224]LogMaterial: Display: Missing cached shader map for material Highlight, compiling. 
+[2019.05.05-17.49.37:679][380]MaterialEditorStats: Base pass shader without light map: 32 instructions
+[2019.05.05-17.49.37:679][380]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2019.05.05-17.49.37:679][380]MaterialEditorStats: Texture samplers: 0/16
+[2019.05.05-17.49.39:180][559]LogMaterial: Display: Missing cached shader map for material Highlight, compiling. 
+[2019.05.05-17.49.41:042][755]MaterialEditorStats: Base pass shader without light map: 32 instructions
+[2019.05.05-17.49.41:043][755]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2019.05.05-17.49.41:043][755]MaterialEditorStats: Texture samplers: 0/16
+[2019.05.05-17.49.46:106][354]LogMaterial: Display: Missing cached shader map for material Highlight, compiling. 
+[2019.05.05-17.49.47:601][504]MaterialEditorStats: Base pass shader without light map: 32 instructions
+[2019.05.05-17.49.47:601][504]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2019.05.05-17.49.47:601][504]MaterialEditorStats: Texture samplers: 0/16
+[2019.05.05-17.49.47:630][507]LogMaterial: Display: Missing cached shader map for material Highlight, compiling. 
+[2019.05.05-17.49.49:272][679]MaterialEditorStats: Base pass shader without light map: 32 instructions
+[2019.05.05-17.49.49:272][679]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2019.05.05-17.49.49:272][679]MaterialEditorStats: Texture samplers: 0/16
+[2019.05.05-17.49.57:323][620]LogMaterial: Display: Missing cached shader map for material Highlight, compiling. 
+[2019.05.05-17.49.58:674][757]MaterialEditorStats: Base pass shader without light map: 32 instructions
+[2019.05.05-17.49.58:674][757]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2019.05.05-17.49.58:674][757]MaterialEditorStats: Texture samplers: 0/16
+[2019.05.05-17.50.02:472][202]LogMaterial: Display: Missing cached shader map for material Highlight, compiling. 
+[2019.05.05-17.50.03:804][282]MaterialEditorStats: Base pass shader without light map: 32 instructions
+[2019.05.05-17.50.03:804][282]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2019.05.05-17.50.03:804][282]MaterialEditorStats: Texture samplers: 0/16
+[2019.05.05-17.50.06:510][561]LogMaterial: Display: Missing cached shader map for material Highlight, compiling. 
+[2019.05.05-17.50.07:781][693]MaterialEditorStats: Base pass shader without light map: 32 instructions
+[2019.05.05-17.50.07:781][693]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2019.05.05-17.50.07:781][693]MaterialEditorStats: Texture samplers: 0/16
+[2019.05.05-17.50.11:393][118]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionScreenPosition_1, compiling. 
+[2019.05.05-17.50.35:381][ 66]LogMaterial: Display: Missing cached shader map for material Highlight, compiling. 
+[2019.05.05-17.50.37:066][234]MaterialEditorStats: Base pass shader without light map: 32 instructions
+[2019.05.05-17.50.37:066][234]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2019.05.05-17.50.37:066][234]MaterialEditorStats: Texture samplers: 0/16
+[2019.05.05-17.50.39:737][529]LogMaterial: Display: Missing cached shader map for material Highlight, compiling. 
+[2019.05.05-17.50.41:100][676]MaterialEditorStats: Base pass shader without light map: 32 instructions
+[2019.05.05-17.50.41:100][676]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2019.05.05-17.50.41:100][676]MaterialEditorStats: Texture samplers: 0/16
+[2019.05.05-17.50.42:605][687]LogUObjectHash: Compacting FUObjectHashTables data took   2.53ms
+[2019.05.05-17.50.42:605][687]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/SideScrollerBP/Maps/SideScrollerExampleMap' took 0.036
+[2019.05.05-17.50.42:606][687]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Materials/Highlight] ([1] browsable assets)...
+[2019.05.05-17.50.42:614][687]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Materials/Highlight.Highlight]
+[2019.05.05-17.50.42:614][687]OBJ SavePackage: Finished generating thumbnails for package [/Game/Materials/Highlight]
+[2019.05.05-17.50.42:629][687]LogSavePackage: Moving '../../../../../../Users/Dragos/Desktop/Sogarde Studios/Black Hat/Black-Hat/Black_Hat/Saved/Highlight_Auto840847AA74704ED807AFA10979E002497.tmp' to '../../../../../../Users/Dragos/Desktop/Sogarde Studios/Black Hat/Black-Hat/Black_Hat/Saved/Autosaves/Game/Materials/Highlight_Auto8.uasset'
+[2019.05.05-17.50.42:634][687]LogFileHelpers: Auto-saving content packages took 0.028
+[2019.05.05-17.50.45:670][933]LogMaterial: Display: Missing cached shader map for material Highlight, compiling. 
+[2019.05.05-17.50.47:081][ 81]MaterialEditorStats: Base pass shader without light map: 32 instructions
+[2019.05.05-17.50.47:081][ 81]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2019.05.05-17.50.47:081][ 81]MaterialEditorStats: Texture samplers: 0/16
+[2019.05.05-17.50.47:179][ 92]LogMaterial: Display: Missing cached shader map for material Highlight, compiling. 
+[2019.05.05-17.50.48:164][185]LogMaterial: Display: Missing cached shader map for material Highlight, compiling. 
+[2019.05.05-17.50.50:341][360]MaterialEditorStats: Base pass shader without light map: 32 instructions
+[2019.05.05-17.50.50:341][360]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2019.05.05-17.50.50:341][360]MaterialEditorStats: Texture samplers: 0/16
+[2019.05.05-17.50.53:084][566]LogMaterial: Display: Missing cached shader map for material Highlight, compiling. 
+[2019.05.05-17.50.54:392][706]LogMaterial: Display: Missing cached shader map for material Highlight, compiling. 
+[2019.05.05-17.50.55:655][841]MaterialEditorStats: Base pass shader without light map: 32 instructions
+[2019.05.05-17.50.55:655][841]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2019.05.05-17.50.55:656][841]MaterialEditorStats: Texture samplers: 0/16
+[2019.05.05-17.51.07:848][238]LogMaterial: Display: Missing cached shader map for material Highlight, compiling. 
+[2019.05.05-17.51.09:697][420]MaterialEditorStats: Base pass shader without light map: 32 instructions
+[2019.05.05-17.51.09:697][420]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2019.05.05-17.51.09:698][420]MaterialEditorStats: Texture samplers: 0/16
+[2019.05.05-17.51.45:370][661]LogMaterial: Display: Missing cached shader map for material Highlight, compiling. 
+[2019.05.05-17.51.47:124][862]MaterialEditorStats: Base pass shader without light map: 32 instructions
+[2019.05.05-17.51.47:124][862]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2019.05.05-17.51.47:124][862]MaterialEditorStats: Texture samplers: 0/16
+[2019.05.05-17.51.56:219][750]LogMaterial: Display: Missing cached shader map for material Highlight, compiling. 
+[2019.05.05-17.51.56:473][775]LogMaterial: Display: Missing cached shader map for material Highlight, compiling. 
+[2019.05.05-17.51.56:729][800]LogMaterial: Display: Missing cached shader map for material Highlight, compiling. 
+[2019.05.05-17.51.58:463][984]MaterialEditorStats: Base pass shader without light map: 32 instructions
+[2019.05.05-17.51.58:463][984]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2019.05.05-17.51.58:463][984]MaterialEditorStats: Texture samplers: 0/16
+[2019.05.05-17.52.04:466][695]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2019.05.05-17.52.04:472][695]LogMaterial: Display: Missing cached shader map for material Highlight, compiling. 
+[2019.05.05-17.52.05:224][771]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.05.05-17.52.05:759][826]LogEditorTransaction: Undo Create Pin Link
+[2019.05.05-17.52.05:761][826]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2019.05.05-17.52.05:768][826]LogMaterial: Display: Missing cached shader map for material Highlight, compiling. 
+[2019.05.05-17.52.06:297][876]LogEditorTransaction: Undo Move Node
+[2019.05.05-17.52.06:299][876]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2019.05.05-17.52.06:306][876]LogMaterial: Display: Missing cached shader map for material Highlight, compiling. 
+[2019.05.05-17.52.07:468][994]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.05.05-17.52.07:803][ 26]LogMaterial: Display: Missing cached shader map for material Highlight, compiling. 
+[2019.05.05-17.52.07:810][ 26]LogMaterial: Display: Missing cached shader map for material Highlight, compiling. 
+[2019.05.05-17.52.09:180][151]LogMaterial: Display: Missing cached shader map for material Highlight, compiling. 
+[2019.05.05-17.52.10:954][336]MaterialEditorStats: Base pass shader without light map: 32 instructions
+[2019.05.05-17.52.10:954][336]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2019.05.05-17.52.10:954][336]MaterialEditorStats: Texture samplers: 0/16
+[2019.05.05-17.52.18:831][ 36]LogMaterial: Display: Missing cached shader map for material Highlight, compiling. 
+[2019.05.05-17.52.20:114][179]MaterialEditorStats: Base pass shader without light map: 32 instructions
+[2019.05.05-17.52.20:114][179]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2019.05.05-17.52.20:114][179]MaterialEditorStats: Texture samplers: 0/16
+[2019.05.05-17.52.20:520][227]LogMaterial: Display: Missing cached shader map for material Highlight, compiling. 
+[2019.05.05-17.52.21:839][374]MaterialEditorStats: Base pass shader without light map: 32 instructions
+[2019.05.05-17.52.21:839][374]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2019.05.05-17.52.21:839][374]MaterialEditorStats: Texture samplers: 0/16
+[2019.05.05-17.52.21:933][385]LogMaterial: Display: Missing cached shader map for material Highlight, compiling. 
+[2019.05.05-17.52.23:826][541]MaterialEditorStats: Base pass shader without light map: 32 instructions
+[2019.05.05-17.52.23:826][541]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2019.05.05-17.52.23:826][541]MaterialEditorStats: Texture samplers: 0/16
+[2019.05.05-17.53.17:977][621]LogMaterial: Display: Missing cached shader map for material Highlight, compiling. 
+[2019.05.05-17.53.19:724][807]MaterialEditorStats: Base pass shader without light map: 32 instructions
+[2019.05.05-17.53.19:724][807]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2019.05.05-17.53.19:724][807]MaterialEditorStats: Texture samplers: 0/16
+[2019.05.05-17.53.21:802][ 53]LogMaterial: Display: Missing cached shader map for material Highlight, compiling. 
+[2019.05.05-17.53.23:187][201]MaterialEditorStats: Base pass shader without light map: 32 instructions
+[2019.05.05-17.53.23:187][201]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2019.05.05-17.53.23:187][201]MaterialEditorStats: Texture samplers: 0/16
+[2019.05.05-17.53.24:652][374]LogMaterial: Display: Missing cached shader map for material Highlight, compiling. 
+[2019.05.05-17.53.25:817][494]MaterialEditorStats: Base pass shader without light map: 32 instructions
+[2019.05.05-17.53.25:817][494]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2019.05.05-17.53.25:817][494]MaterialEditorStats: Texture samplers: 0/16
+[2019.05.05-17.53.34:384][509]LogMaterial: Display: Missing cached shader map for material Highlight, compiling. 
+[2019.05.05-17.53.35:622][638]MaterialEditorStats: Base pass shader without light map: 32 instructions
+[2019.05.05-17.53.35:622][638]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2019.05.05-17.53.35:622][638]MaterialEditorStats: Texture samplers: 0/16
+[2019.05.05-17.53.40:056][  4]LogMaterial: Display: Missing cached shader map for material Highlight, compiling. 
+[2019.05.05-17.53.41:672][172]MaterialEditorStats: Base pass shader without light map: 32 instructions
+[2019.05.05-17.53.41:672][172]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2019.05.05-17.53.41:672][172]MaterialEditorStats: Texture samplers: 0/16
+[2019.05.05-17.53.54:006][218]LogMaterial: Display: Missing cached shader map for material Highlight, compiling. 
+[2019.05.05-17.53.54:676][267]MaterialEditorStats: Base pass shader without light map: 32 instructions
+[2019.05.05-17.53.54:676][267]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2019.05.05-17.53.54:676][267]MaterialEditorStats: Texture samplers: 0/16
+[2019.05.05-17.53.55:171][316]LogMaterial: Display: Missing cached shader map for material Highlight, compiling. 
+[2019.05.05-17.53.55:177][316]LogMaterial: Display: Missing cached shader map for material Highlight, compiling. 
+[2019.05.05-17.53.56:491][403]MaterialEditorStats: Base pass shader without light map: 32 instructions
+[2019.05.05-17.53.56:491][403]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2019.05.05-17.53.56:491][403]MaterialEditorStats: Texture samplers: 0/16
+[2019.05.05-17.54.03:861][733]LogMaterial: Display: Missing cached shader map for material Highlight, compiling. 
+[2019.05.05-17.54.04:155][762]LogMaterial: Display: Missing cached shader map for material Highlight, compiling. 
+[2019.05.05-17.54.04:655][812]LogMaterial: Display: Missing cached shader map for material Highlight, compiling. 
+[2019.05.05-17.54.04:950][840]LogMaterial: Display: Missing cached shader map for material Highlight, compiling. 
+[2019.05.05-17.54.06:872][ 43]MaterialEditorStats: Base pass shader without light map: 32 instructions
+[2019.05.05-17.54.06:872][ 43]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2019.05.05-17.54.06:872][ 43]MaterialEditorStats: Texture samplers: 0/16
+[2019.05.05-17.54.21:542][781]LogMaterial: Display: Missing cached shader map for material Highlight, compiling. 
+[2019.05.05-17.54.23:049][937]LogMaterial: Display: Missing cached shader map for material Highlight, compiling. 
+[2019.05.05-17.54.24:784][102]LogMaterial: Display: Missing cached shader map for material Highlight, compiling. 
+[2019.05.05-17.54.26:191][252]LogMaterial: Display: Missing cached shader map for material Highlight, compiling. 
+[2019.05.05-17.54.27:676][403]MaterialEditorStats: Base pass shader without light map: 32 instructions
+[2019.05.05-17.54.27:676][403]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2019.05.05-17.54.27:676][403]MaterialEditorStats: Texture samplers: 0/16
+[2019.05.05-17.54.34:815][240]LogMaterial: Display: Missing cached shader map for material Highlight, compiling. 
+[2019.05.05-17.54.35:986][360]MaterialEditorStats: Base pass shader without light map: 32 instructions
+[2019.05.05-17.54.35:986][360]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2019.05.05-17.54.35:986][360]MaterialEditorStats: Texture samplers: 0/16
+[2019.05.05-17.54.43:482][252]LogMaterial: Display: Missing cached shader map for material Highlight, compiling. 
+[2019.05.05-17.54.44:578][365]LogMaterial: Display: Missing cached shader map for material Highlight, compiling. 
+[2019.05.05-17.54.45:012][407]LogMaterial: Display: Missing cached shader map for material Highlight, compiling. 
+[2019.05.05-17.54.45:308][435]LogMaterial: Display: Missing cached shader map for material Highlight, compiling. 
+[2019.05.05-17.54.47:776][700]MaterialEditorStats: Base pass shader without light map: 32 instructions
+[2019.05.05-17.54.47:776][700]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2019.05.05-17.54.47:776][700]MaterialEditorStats: Texture samplers: 0/16
+[2019.05.05-17.54.51:921][191]LogMaterial: Display: Missing cached shader map for material Highlight, compiling. 
+[2019.05.05-17.54.53:219][330]LogMaterial: Display: Missing cached shader map for material Highlight, compiling. 
+[2019.05.05-17.54.54:659][478]LogMaterial: Display: Missing cached shader map for material Highlight, compiling. 
+[2019.05.05-17.54.57:054][734]MaterialEditorStats: Base pass shader without light map: 32 instructions
+[2019.05.05-17.54.57:054][734]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2019.05.05-17.54.57:054][734]MaterialEditorStats: Texture samplers: 0/16
+[2019.05.05-17.55.03:844][540]LogMaterial: Display: Missing cached shader map for material Highlight, compiling. 
+[2019.05.05-17.55.05:431][703]MaterialEditorStats: Base pass shader without light map: 32 instructions
+[2019.05.05-17.55.05:431][703]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2019.05.05-17.55.05:432][703]MaterialEditorStats: Texture samplers: 0/16
+[2019.05.05-17.55.05:459][706]LogMaterial: Display: Missing cached shader map for material Highlight, compiling. 
+[2019.05.05-17.55.06:526][821]LogMaterial: Display: Missing cached shader map for material Highlight, compiling. 
+[2019.05.05-17.55.07:696][944]LogMaterial: Display: Missing cached shader map for material Highlight, compiling. 
+[2019.05.05-17.55.09:692][148]MaterialEditorStats: Base pass shader without light map: 32 instructions
+[2019.05.05-17.55.09:692][148]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2019.05.05-17.55.09:692][148]MaterialEditorStats: Texture samplers: 0/16
+[2019.05.05-17.55.23:056][725]LogMaterial: Display: Missing cached shader map for material Highlight, compiling. 
+[2019.05.05-17.55.24:340][860]MaterialEditorStats: Base pass shader without light map: 32 instructions
+[2019.05.05-17.55.24:340][860]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2019.05.05-17.55.24:340][860]MaterialEditorStats: Texture samplers: 0/16
+[2019.05.05-17.55.25:612][ 11]LogMaterial: Display: Missing cached shader map for material Highlight, compiling. 
+[2019.05.05-17.55.26:955][155]MaterialEditorStats: Base pass shader without light map: 32 instructions
+[2019.05.05-17.55.26:956][155]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2019.05.05-17.55.26:956][155]MaterialEditorStats: Texture samplers: 0/16
+[2019.05.05-17.55.28:345][320]LogMaterial: Display: Missing cached shader map for material Highlight, compiling. 
+[2019.05.05-17.55.29:653][462]MaterialEditorStats: Base pass shader without light map: 32 instructions
+[2019.05.05-17.55.29:653][462]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2019.05.05-17.55.29:653][462]MaterialEditorStats: Texture samplers: 0/16
+[2019.05.05-17.55.30:216][526]LogMaterial: Display: Missing cached shader map for material Highlight, compiling. 
+[2019.05.05-17.55.31:931][709]MaterialEditorStats: Base pass shader without light map: 32 instructions
+[2019.05.05-17.55.31:932][709]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2019.05.05-17.55.31:932][709]MaterialEditorStats: Texture samplers: 0/16
+[2019.05.05-17.55.32:971][833]LogMaterial: Display: Missing cached shader map for material Highlight, compiling. 
+[2019.05.05-17.55.34:232][969]LogMaterial: Display: Missing cached shader map for material Highlight, compiling. 
+[2019.05.05-17.55.35:989][157]MaterialEditorStats: Base pass shader without light map: 32 instructions
+[2019.05.05-17.55.35:989][157]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2019.05.05-17.55.35:989][157]MaterialEditorStats: Texture samplers: 0/16
+[2019.05.05-17.55.37:010][275]LogMaterial: Display: Missing cached shader map for material Highlight, compiling. 
+[2019.05.05-17.55.38:447][424]MaterialEditorStats: Base pass shader without light map: 32 instructions
+[2019.05.05-17.55.38:447][424]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2019.05.05-17.55.38:447][424]MaterialEditorStats: Texture samplers: 0/16
+[2019.05.05-17.55.38:784][464]LogMaterial: Display: Missing cached shader map for material Highlight, compiling. 
+[2019.05.05-17.55.39:851][579]LogMaterial: Display: Missing cached shader map for material Highlight, compiling. 
+[2019.05.05-17.55.41:464][744]MaterialEditorStats: Base pass shader without light map: 32 instructions
+[2019.05.05-17.55.41:464][744]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2019.05.05-17.55.41:464][744]MaterialEditorStats: Texture samplers: 0/16
+[2019.05.05-17.55.46:335][305]LogMaterial: Display: Missing cached shader map for material Highlight, compiling. 
+[2019.05.05-17.55.47:609][434]MaterialEditorStats: Base pass shader without light map: 32 instructions
+[2019.05.05-17.55.47:609][434]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2019.05.05-17.55.47:609][434]MaterialEditorStats: Texture samplers: 0/16
+[2019.05.05-17.55.48:774][573]LogMaterial: Display: Missing cached shader map for material Highlight, compiling. 
+[2019.05.05-17.55.50:014][703]MaterialEditorStats: Base pass shader without light map: 32 instructions
+[2019.05.05-17.55.50:014][703]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2019.05.05-17.55.50:014][703]MaterialEditorStats: Texture samplers: 0/16
+[2019.05.05-17.55.52:795][ 31]LogMaterial: Display: Missing cached shader map for material Highlight, compiling. 
+[2019.05.05-17.55.54:033][155]MaterialEditorStats: Base pass shader without light map: 32 instructions
+[2019.05.05-17.55.54:033][155]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2019.05.05-17.55.54:033][155]MaterialEditorStats: Texture samplers: 0/16
+[2019.05.05-17.56.03:338][256]LogMaterial: Display: Missing cached shader map for material Highlight, compiling. 
+[2019.05.05-17.56.03:344][256]LogMaterial: Display: Missing cached shader map for material Highlight, compiling. 
+[2019.05.05-17.56.04:651][394]MaterialEditorStats: Base pass shader without light map: 32 instructions
+[2019.05.05-17.56.04:652][394]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2019.05.05-17.56.04:652][394]MaterialEditorStats: Texture samplers: 0/16
+[2019.05.05-17.56.05:332][475]LogMaterial: Display: Missing cached shader map for material Highlight, compiling. 
+[2019.05.05-17.56.06:080][551]LogMaterial: Display: Missing cached shader map for material Highlight, compiling. 
+[2019.05.05-17.56.08:073][759]MaterialEditorStats: Base pass shader without light map: 32 instructions
+[2019.05.05-17.56.08:073][759]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2019.05.05-17.56.08:073][759]MaterialEditorStats: Texture samplers: 0/16
+[2019.05.05-17.56.11:587][175]LogMaterial: Display: Missing cached shader map for material Highlight, compiling. 
+[2019.05.05-17.56.11:593][175]LogMaterial: Display: Missing cached shader map for material Highlight, compiling. 
+[2019.05.05-17.56.12:662][285]MaterialEditorStats: Base pass shader without light map: 32 instructions
+[2019.05.05-17.56.12:662][285]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2019.05.05-17.56.12:662][285]MaterialEditorStats: Texture samplers: 0/16
+[2019.05.05-17.56.13:916][432]LogMaterial: Display: Missing cached shader map for material Highlight, compiling. 
+[2019.05.05-17.56.15:270][561]MaterialEditorStats: Base pass shader without light map: 32 instructions
+[2019.05.05-17.56.15:270][561]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2019.05.05-17.56.15:270][561]MaterialEditorStats: Texture samplers: 0/16
+[2019.05.05-17.56.19:921][104]LogMaterial: Display: Missing cached shader map for material Highlight, compiling. 
+[2019.05.05-17.56.19:927][104]LogMaterial: Display: Missing cached shader map for material Highlight, compiling. 
+[2019.05.05-17.56.21:188][238]MaterialEditorStats: Base pass shader without light map: 32 instructions
+[2019.05.05-17.56.21:188][238]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2019.05.05-17.56.21:188][238]MaterialEditorStats: Texture samplers: 0/16
+[2019.05.05-17.56.27:431][977]LogMaterial: Display: Missing cached shader map for material Highlight, compiling. 
+[2019.05.05-17.56.27:438][977]LogMaterial: Display: Missing cached shader map for material Highlight, compiling. 
+[2019.05.05-17.56.28:782][119]MaterialEditorStats: Base pass shader without light map: 32 instructions
+[2019.05.05-17.56.28:782][119]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2019.05.05-17.56.28:782][119]MaterialEditorStats: Texture samplers: 0/16
+[2019.05.05-17.56.37:985][214]LogMaterial: Display: Missing cached shader map for material Highlight, compiling. 
+[2019.05.05-17.56.37:991][214]LogMaterial: Display: Missing cached shader map for material Highlight, compiling. 
+[2019.05.05-17.56.39:362][361]MaterialEditorStats: Base pass shader without light map: 32 instructions
+[2019.05.05-17.56.39:362][361]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2019.05.05-17.56.39:362][361]MaterialEditorStats: Texture samplers: 0/16
+[2019.05.05-17.56.44:923][ 19]LogMaterial: Display: Missing cached shader map for material Highlight, compiling. 
+[2019.05.05-17.56.46:367][178]MaterialEditorStats: Base pass shader without light map: 32 instructions
+[2019.05.05-17.56.46:368][178]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2019.05.05-17.56.46:368][178]MaterialEditorStats: Texture samplers: 0/16
+[2019.05.05-17.56.47:075][262]LogMaterial: Display: Missing cached shader map for material Highlight, compiling. 
+[2019.05.05-17.56.48:443][401]MaterialEditorStats: Base pass shader without light map: 32 instructions
+[2019.05.05-17.56.48:443][401]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2019.05.05-17.56.48:443][401]MaterialEditorStats: Texture samplers: 0/16
+[2019.05.05-17.56.49:024][468]LogMaterial: Display: Missing cached shader map for material Highlight, compiling. 
+[2019.05.05-17.56.50:205][597]MaterialEditorStats: Base pass shader without light map: 32 instructions
+[2019.05.05-17.56.50:205][597]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2019.05.05-17.56.50:206][597]MaterialEditorStats: Texture samplers: 0/16
+[2019.05.05-17.56.53:088][937]LogMaterial: Display: Missing cached shader map for material Highlight, compiling. 
+[2019.05.05-17.56.54:307][ 62]MaterialEditorStats: Base pass shader without light map: 32 instructions
+[2019.05.05-17.56.54:307][ 62]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2019.05.05-17.56.54:307][ 62]MaterialEditorStats: Texture samplers: 0/16
+[2019.05.05-17.56.56:058][271]LogMaterial: Display: Missing cached shader map for material Highlight, compiling. 
+[2019.05.05-17.56.57:254][395]MaterialEditorStats: Base pass shader without light map: 32 instructions
+[2019.05.05-17.56.57:254][395]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2019.05.05-17.56.57:254][395]MaterialEditorStats: Texture samplers: 0/16
+[2019.05.05-17.56.58:095][495]LogMaterial: Display: Missing cached shader map for material Highlight, compiling. 
+[2019.05.05-17.56.59:668][660]MaterialEditorStats: Base pass shader without light map: 32 instructions
+[2019.05.05-17.56.59:668][660]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2019.05.05-17.56.59:668][660]MaterialEditorStats: Texture samplers: 0/16
+[2019.05.05-17.57.06:836][517]LogMaterial: Display: Missing cached shader map for material Highlight, compiling. 
+[2019.05.05-17.57.06:842][517]LogMaterial: Display: Missing cached shader map for material Highlight, compiling. 
+[2019.05.05-17.57.08:114][653]LogMaterial: Display: Missing cached shader map for material Highlight, compiling. 
+[2019.05.05-17.57.09:531][801]MaterialEditorStats: Base pass shader without light map: 32 instructions
+[2019.05.05-17.57.09:531][801]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2019.05.05-17.57.09:531][801]MaterialEditorStats: Texture samplers: 0/16
+[2019.05.05-17.57.09:834][837]LogMaterial: Display: Missing cached shader map for material Highlight, compiling. 
+[2019.05.05-17.57.09:840][837]LogMaterial: Display: Missing cached shader map for material Highlight, compiling. 
+[2019.05.05-17.57.11:059][967]MaterialEditorStats: Base pass shader without light map: 32 instructions
+[2019.05.05-17.57.11:059][967]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2019.05.05-17.57.11:059][967]MaterialEditorStats: Texture samplers: 0/16
+[2019.05.05-17.57.12:077][ 88]LogMaterial: Display: Missing cached shader map for material Highlight, compiling. 
+[2019.05.05-17.57.13:510][237]MaterialEditorStats: Base pass shader without light map: 32 instructions
+[2019.05.05-17.57.13:510][237]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2019.05.05-17.57.13:510][237]MaterialEditorStats: Texture samplers: 0/16
+[2019.05.05-17.57.21:074][131]LogMaterial: Display: Missing cached shader map for material Highlight, compiling. 
+[2019.05.05-17.57.21:092][131]LogMaterial: Display: Missing cached shader map for material Highlight, compiling. 
+[2019.05.05-17.57.21:141][132]LogMaterial: Display: Missing cached shader map for material Material_0, compiling. 
+[2019.05.05-17.57.21:728][196]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.05.05-17.57.22:919][324]MaterialEditorStats: Base pass shader without light map: 32 instructions
+[2019.05.05-17.57.22:919][324]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2019.05.05-17.57.22:919][324]MaterialEditorStats: Texture samplers: 0/16
+[2019.05.05-17.57.24:762][509]LogMaterial: Display: Missing cached shader map for material Highlight, compiling. 
+[2019.05.05-17.57.24:768][509]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2019.05.05-17.57.26:490][679]MaterialEditorStats: Base pass shader without light map: 32 instructions
+[2019.05.05-17.57.26:491][679]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2019.05.05-17.57.26:491][679]MaterialEditorStats: Texture samplers: 0/16
+[2019.05.05-17.57.30:092][ 96]LogMaterial: Display: Missing cached shader map for material Highlight, compiling. 
+[2019.05.05-17.57.30:103][ 96]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2019.05.05-17.57.31:413][232]LogMaterial: Display: Missing cached shader map for material Highlight, compiling. 
+[2019.05.05-17.57.31:427][232]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2019.05.05-17.57.32:625][357]LogMaterial: Display: Missing cached shader map for material Highlight, compiling. 
+[2019.05.05-17.57.32:639][357]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2019.05.05-17.57.33:870][484]LogMaterial: Display: Missing cached shader map for material Highlight, compiling. 
+[2019.05.05-17.57.33:879][484]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2019.05.05-17.57.35:542][651]MaterialEditorStats: Base pass shader without light map: 32 instructions
+[2019.05.05-17.57.35:542][651]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2019.05.05-17.57.35:542][651]MaterialEditorStats: Texture samplers: 0/16
+[2019.05.05-17.57.42:210][438]LogMaterial: Display: Missing cached shader map for material Highlight, compiling. 
+[2019.05.05-17.57.42:221][438]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2019.05.05-17.57.42:248][438]LogMaterial: Display: Missing cached shader map for material Highlight, compiling. 
+[2019.05.05-17.57.44:477][670]LogMaterial: Display: Missing cached shader map for material Highlight, compiling. 
+[2019.05.05-17.57.46:334][855]MaterialEditorStats: Base pass shader without light map: 32 instructions
+[2019.05.05-17.57.46:334][855]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2019.05.05-17.57.46:334][855]MaterialEditorStats: Texture samplers: 0/16
+[2019.05.05-17.57.53:759][719]LogMaterial: Display: Missing cached shader map for material Highlight, compiling. 
+[2019.05.05-17.57.53:772][719]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2019.05.05-17.57.55:922][919]LogMaterial: Display: Missing cached shader map for material Highlight, compiling. 
+[2019.05.05-17.57.55:934][919]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2019.05.05-17.57.56:822][  7]LogMaterial: Display: Missing cached shader map for material Highlight, compiling. 
+[2019.05.05-17.57.56:834][  7]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2019.05.05-17.57.57:836][109]LogMaterial: Display: Missing cached shader map for material Highlight, compiling. 
+[2019.05.05-17.57.57:847][109]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2019.05.05-17.57.58:687][189]LogMaterial: Display: Missing cached shader map for material Highlight, compiling. 
+[2019.05.05-17.57.58:700][189]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2019.05.05-17.57.59:226][238]LogMaterial: Display: Missing cached shader map for material Highlight, compiling. 
+[2019.05.05-17.57.59:237][238]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2019.05.05-17.57.59:264][238]LogSlate: Window 'Color Picker' being destroyed
+[2019.05.05-17.58.00:913][396]MaterialEditorStats: Base pass shader without light map: 32 instructions
+[2019.05.05-17.58.00:913][396]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2019.05.05-17.58.00:913][396]MaterialEditorStats: Texture samplers: 0/16
+[2019.05.05-17.58.01:527][458]LogSlate: Window 'Color Picker' being destroyed
+[2019.05.05-17.58.02:596][582]LogSlate: Window 'Color Picker' being destroyed
+[2019.05.05-17.58.10:206][ 48]LogMaterial: Display: Missing cached shader map for material Highlight, compiling. 
+[2019.05.05-17.58.11:313][170]MaterialEditorStats: Base pass shader without light map: 32 instructions
+[2019.05.05-17.58.11:313][170]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2019.05.05-17.58.11:313][170]MaterialEditorStats: Texture samplers: 0/16
+[2019.05.05-17.58.14:742][226]LogMaterial: Display: Missing cached shader map for material Highlight, compiling. 
+[2019.05.05-17.58.15:064][227]MaterialEditorStats: Base pass shader without light map: 32 instructions
+[2019.05.05-17.58.15:064][227]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2019.05.05-17.58.15:064][227]MaterialEditorStats: Texture samplers: 0/16
+[2019.05.05-17.58.16:426][386]LogMaterial: Display: Missing cached shader map for material Highlight, compiling. 
+[2019.05.05-17.58.16:432][386]LogMaterial: Display: Missing cached shader map for material Highlight, compiling. 
+[2019.05.05-17.58.18:192][572]MaterialEditorStats: Base pass shader without light map: 32 instructions
+[2019.05.05-17.58.18:192][572]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2019.05.05-17.58.18:192][572]MaterialEditorStats: Texture samplers: 0/16
+[2019.05.05-17.58.19:974][664]LogMaterial: Display: Missing cached shader map for material Highlight, compiling. 
+[2019.05.05-17.58.20:819][737]LogMaterial: Display: Missing cached shader map for material Highlight, compiling. 
+[2019.05.05-17.58.20:826][737]LogMaterial: Display: Missing cached shader map for material Highlight, compiling. 
+[2019.05.05-17.58.22:461][918]MaterialEditorStats: Base pass shader without light map: 32 instructions
+[2019.05.05-17.58.22:461][918]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2019.05.05-17.58.22:461][918]MaterialEditorStats: Texture samplers: 0/16
+[2019.05.05-17.58.22:858][965]LogMaterial: Display: Missing cached shader map for material Highlight, compiling. 
+[2019.05.05-17.58.24:437][ 42]MaterialEditorStats: Base pass shader without light map: 32 instructions
+[2019.05.05-17.58.24:437][ 42]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2019.05.05-17.58.24:437][ 42]MaterialEditorStats: Texture samplers: 0/16
+[2019.05.05-17.58.28:598][535]LogMaterial: Display: Missing cached shader map for material Highlight, compiling. 
+[2019.05.05-17.58.28:599][535]LogMaterial: Warning: /Engine/Transient.Highlight (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.05.05-17.58.28:599][535]LogMaterial: 	(Node ComponentMask) Missing ComponentMask input
+[2019.05.05-17.58.28:600][535]MaterialEditorStats: Error: [SM5] (Node ComponentMask) Missing ComponentMask input
+[2019.05.05-17.58.47:666][589]LogMaterial: Display: Missing cached shader map for material Highlight, compiling. 
+[2019.05.05-17.58.49:280][687]MaterialEditorStats: Base pass shader without light map: 32 instructions
+[2019.05.05-17.58.49:280][687]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2019.05.05-17.58.49:280][687]MaterialEditorStats: Texture samplers: 2/16
+[2019.05.05-17.58.49:280][687]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(6)
+[2019.05.05-17.58.51:956][695]LogMaterialEditor: Applying material Highlight
+[2019.05.05-17.58.52:312][695]LogMaterial: Display: Missing cached shader map for material Highlight, compiling. 
+[2019.05.05-17.58.52:341][695]LogMaterial: Display: Missing cached shader map for material Highlight, compiling. 
+[2019.05.05-17.58.52:349][695]LogMaterial: Display: Missing cached shader map for material Highlight, compiling. 
+[2019.05.05-17.58.52:383][695]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2019.05.05-17.58.52:384][695]TextureStreamingBuild: Display: Compiling optional shaders took 0.000 seconds.
+[2019.05.05-17.58.52:410][695]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2019.05.05-17.58.53:493][810]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.05.05-17.58.55:796][ 57]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.05-17.58.56:981][188]MaterialEditorStats: Base pass shader without light map: 32 instructions
+[2019.05.05-17.58.56:981][188]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2019.05.05-17.58.56:982][188]MaterialEditorStats: Texture samplers: 2/16
+[2019.05.05-17.58.56:982][188]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(6)
+[2019.05.05-17.59.00:011][543]LogMaterialEditor: Saving and Compiling material Highlight
+[2019.05.05-17.59.00:028][543]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/Highlight" FILE="../../../../../../Users/Dragos/Desktop/Sogarde Studios/Black Hat/Black-Hat/Black_Hat/Content/Materials/Highlight.uasset" SILENT=true
+[2019.05.05-17.59.00:048][543]LogSavePackage: Moving '../../../../../../Users/Dragos/Desktop/Sogarde Studios/Black Hat/Black-Hat/Black_Hat/Saved/Highlight98D5BA574F1BA41CA5D87DAD5008EFB0.tmp' to '../../../../../../Users/Dragos/Desktop/Sogarde Studios/Black Hat/Black-Hat/Black_Hat/Content/Materials/Highlight.uasset'
+[2019.05.05-17.59.37:218][354]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.05-17.59.53:246][268]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.05-18.00.31:807][477]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2019.05.05-18.00.36:508][ 25]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2019.05.05-18.00.36:927][ 74]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2019.05.05-18.00.37:331][121]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2019.05.05-18.00.37:633][156]LogEditorViewport: Clicking on Actor (LMB): PostProcessVolume (PostProcessVolume2)
+[2019.05.05-18.00.39:448][367]LogEditorViewport: Clicking on Actor (LMB): LightmassImportanceVolume (LightmassImportanceVolume)
+[2019.05.05-18.00.39:749][400]Cmd: SELECT NONE
+[2019.05.05-18.00.42:380][708]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.05-18.00.43:853][881]EditorErrors: New page: Actor attachment
+[2019.05.05-18.01.33:661][193]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.05-18.01.55:138][528]LogEditorViewport: Clicking on Actor (LMB): BP_Safe_C (BP_Safe)
+[2019.05.05-18.02.08:283][948]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.05-18.02.10:923][242]LogEditorViewport: Clicking on Actor (LMB): SideScrollerCharacter_C (SideScrollerCharacter)
+[2019.05.05-18.02.18:689][493]LogEditorViewport: Clicking on Actor (LMB): BP_Safe_C (BP_Safe)
+[2019.05.05-18.02.19:939][640]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.05-18.02.54:231][922]Cmd: SELECT NONE
+[2019.05.05-18.02.54:975][ 11]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.05-18.02.55:034][ 18]LogTemp: Repeating last play command: Selected Viewport
+[2019.05.05-18.02.55:044][ 18]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.05.05-18.02.55:044][ 18]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.05.05-18.02.55:044][ 18]PIE: New page: PIE session: SideScrollerExampleMap (May 5, 2019, 10:02:55 AM)
+[2019.05.05-18.02.55:045][ 18]LogPlayLevel: Creating play world package: /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap
+[2019.05.05-18.02.55:051][ 18]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006243s)
+[2019.05.05-18.02.55:052][ 18]LogAIModule: Creating AISystem for world SideScrollerExampleMap
+[2019.05.05-18.02.55:052][ 18]LogPlayLevel: PIE: World Init took: (0.000584s)
+[2019.05.05-18.02.55:052][ 18]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap to /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap (0.006949s)
+[2019.05.05-18.02.55:079][ 18]LogUObjectHash: Compacting FUObjectHashTables data took   1.99ms
+[2019.05.05-18.02.55:089][ 18]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.05.05-18.02.55:113][ 18]LogInit: FAudioDevice initialized.
+[2019.05.05-18.02.55:142][ 18]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2019.05.05-18.02.55:143][ 18]LogWorld: Bringing World /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap up for play (max tick rate 0) at 2019.05.05-14.02.55
+[2019.05.05-18.02.55:144][ 18]LogWorld: Bringing up level for play took: 0.001859
+[2019.05.05-18.02.55:156][ 18]PIE: Play in editor start time for /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap 1.023
+[2019.05.05-18.02.55:157][ 18]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.05.05-18.02.56:025][119]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.05.05-18.02.56:025][119]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.05-18.02.56:052][119]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.05.05-18.02.56:052][119]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.05.05-18.02.56:083][119]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.05-18.02.56:086][119]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2019.05.05-18.02.56:126][122]LogPlayLevel: Display: Destroying online subsystem :Context_109
+[2019.05.05-18.02.58:089][347]LogEditorViewport: Clicking on Actor (LMB): BP_Safe_C (BP_Safe)
+[2019.05.05-18.02.59:371][496]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.05-18.03.00:772][664]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.05-18.03.00:774][664]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/HQ_ResidentialHouse/Actors/BP_Safe.BP_Safe
+[2019.05.05-18.04.05:605][894]BlueprintLog: New page: Compile BP_Safe
+[2019.05.05-18.04.05:744][894]LogUObjectHash: Compacting FUObjectHashTables data took   2.08ms
+[2019.05.05-18.04.13:743][772]LogTemp: Repeating last play command: Selected Viewport
+[2019.05.05-18.04.13:754][772]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.05.05-18.04.13:754][772]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.05.05-18.04.13:754][772]PIE: New page: PIE session: SideScrollerExampleMap (May 5, 2019, 10:04:13 AM)
+[2019.05.05-18.04.13:755][772]LogPlayLevel: Creating play world package: /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap
+[2019.05.05-18.04.13:761][772]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005903s)
+[2019.05.05-18.04.13:762][772]LogAIModule: Creating AISystem for world SideScrollerExampleMap
+[2019.05.05-18.04.13:762][772]LogPlayLevel: PIE: World Init took: (0.000414s)
+[2019.05.05-18.04.13:762][772]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap to /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap (0.006427s)
+[2019.05.05-18.04.13:791][772]LogUObjectHash: Compacting FUObjectHashTables data took   2.39ms
+[2019.05.05-18.04.13:800][772]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.05.05-18.04.13:824][772]LogInit: FAudioDevice initialized.
+[2019.05.05-18.04.13:851][772]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2019.05.05-18.04.13:853][772]LogWorld: Bringing World /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap up for play (max tick rate 0) at 2019.05.05-14.04.13
+[2019.05.05-18.04.13:854][772]LogWorld: Bringing up level for play took: 0.001804
+[2019.05.05-18.04.13:865][772]PIE: Play in editor start time for /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap -0.268
+[2019.05.05-18.04.13:865][772]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.05.05-18.04.15:154][923]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.05.05-18.04.15:154][923]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.05-18.04.15:187][923]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.05.05-18.04.15:187][923]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.05.05-18.04.15:218][923]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.05-18.04.15:221][923]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2019.05.05-18.04.15:268][925]LogPlayLevel: Display: Destroying online subsystem :Context_111
+[2019.05.05-18.04.18:028][256]LogEditorViewport: Clicking on Actor (LMB): BP_Safe_C (BP_Safe)
+[2019.05.05-18.04.19:589][439]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.05-18.04.25:518][144]Cmd: SELECT NONE
+[2019.05.05-18.04.26:914][311]LogTemp: Repeating last play command: Selected Viewport
+[2019.05.05-18.04.26:923][311]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.05.05-18.04.26:923][311]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.05.05-18.04.26:923][311]PIE: New page: PIE session: SideScrollerExampleMap (May 5, 2019, 10:04:26 AM)
+[2019.05.05-18.04.26:924][311]LogPlayLevel: Creating play world package: /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap
+[2019.05.05-18.04.26:930][311]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005799s)
+[2019.05.05-18.04.26:930][311]LogAIModule: Creating AISystem for world SideScrollerExampleMap
+[2019.05.05-18.04.26:931][311]LogPlayLevel: PIE: World Init took: (0.000401s)
+[2019.05.05-18.04.26:931][311]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap to /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap (0.006313s)
+[2019.05.05-18.04.26:959][311]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2019.05.05-18.04.26:968][311]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.05.05-18.04.26:992][311]LogInit: FAudioDevice initialized.
+[2019.05.05-18.04.27:017][311]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2019.05.05-18.04.27:019][311]LogWorld: Bringing World /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap up for play (max tick rate 0) at 2019.05.05-14.04.27
+[2019.05.05-18.04.27:020][311]LogWorld: Bringing up level for play took: 0.001776
+[2019.05.05-18.04.27:031][311]PIE: Play in editor start time for /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap 0.898
+[2019.05.05-18.04.27:031][311]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.05.05-18.04.28:699][508]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.05.05-18.04.28:699][508]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.05-18.04.28:728][508]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.05.05-18.04.28:728][508]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.05.05-18.04.28:759][508]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.05-18.04.28:762][508]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2019.05.05-18.04.28:809][510]LogPlayLevel: Display: Destroying online subsystem :Context_112
+[2019.05.05-18.04.29:720][619]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.05-18.05.06:155][231]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2019.05.05-18.05.06:323][231]LogSavePackage: Moving '../../../../../../Users/Dragos/Desktop/Sogarde Studios/Black Hat/Black-Hat/Black_Hat/Saved/SideScrollerExampleMap_Auto9F13F9E384B9CE6B0A641F399C4671196.tmp' to '../../../../../../Users/Dragos/Desktop/Sogarde Studios/Black Hat/Black-Hat/Black_Hat/Saved/Autosaves/Game/SideScrollerBP/Maps/SideScrollerExampleMap_Auto9.umap'
+[2019.05.05-18.05.06:327][231]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/SideScrollerBP/Maps/SideScrollerExampleMap' took 0.214
+[2019.05.05-18.05.06:327][231]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.214
+[2019.05.05-18.05.06:328][231]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/HQ_ResidentialHouse/Actors/BP_Safe] ([1] browsable assets)...
+[2019.05.05-18.05.06:337][231]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/HQ_ResidentialHouse/Actors/BP_Safe.BP_Safe]
+[2019.05.05-18.05.06:337][231]OBJ SavePackage: Finished generating thumbnails for package [/Game/HQ_ResidentialHouse/Actors/BP_Safe]
+[2019.05.05-18.05.06:361][231]LogSavePackage: Moving '../../../../../../Users/Dragos/Desktop/Sogarde Studios/Black Hat/Black-Hat/Black_Hat/Saved/BP_Safe_Auto96EAC3E55403B49EB7294B5967F3B0C1E.tmp' to '../../../../../../Users/Dragos/Desktop/Sogarde Studios/Black Hat/Black-Hat/Black_Hat/Saved/Autosaves/Game/HQ_ResidentialHouse/Actors/BP_Safe_Auto9.uasset'
+[2019.05.05-18.05.06:365][231]LogFileHelpers: Auto-saving content packages took 0.037
+[2019.05.05-18.06.00:248][543]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.05-18.08.57:260][ 77]BlueprintLog: New page: Compile BP_Safe
+[2019.05.05-18.08.57:395][ 77]LogUObjectHash: Compacting FUObjectHashTables data took   2.63ms
+[2019.05.05-18.09.01:975][528]LogTemp: Repeating last play command: Selected Viewport
+[2019.05.05-18.09.01:989][528]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.05.05-18.09.01:989][528]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.05.05-18.09.01:989][528]PIE: New page: PIE session: SideScrollerExampleMap (May 5, 2019, 10:09:01 AM)
+[2019.05.05-18.09.01:990][528]LogPlayLevel: Creating play world package: /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap
+[2019.05.05-18.09.01:996][528]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006053s)
+[2019.05.05-18.09.01:996][528]LogAIModule: Creating AISystem for world SideScrollerExampleMap
+[2019.05.05-18.09.01:997][528]LogPlayLevel: PIE: World Init took: (0.000452s)
+[2019.05.05-18.09.01:997][528]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap to /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap (0.006620s)
+[2019.05.05-18.09.02:025][528]LogUObjectHash: Compacting FUObjectHashTables data took   2.33ms
+[2019.05.05-18.09.02:034][528]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.05.05-18.09.02:059][528]LogInit: FAudioDevice initialized.
+[2019.05.05-18.09.02:087][528]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2019.05.05-18.09.02:088][528]LogWorld: Bringing World /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap up for play (max tick rate 0) at 2019.05.05-14.09.02
+[2019.05.05-18.09.02:089][528]LogWorld: Bringing up level for play took: 0.001901
+[2019.05.05-18.09.02:101][528]PIE: Play in editor start time for /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap -0.032
+[2019.05.05-18.09.02:102][528]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.05.05-18.09.08:664][310]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.05-18.09.09:729][437]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.05.05-18.09.09:729][437]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.05-18.09.09:758][437]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.05.05-18.09.09:758][437]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.05.05-18.09.09:788][437]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.05-18.09.09:791][437]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2019.05.05-18.09.09:833][439]LogPlayLevel: Display: Destroying online subsystem :Context_113
+[2019.05.05-18.09.20:539][717]LogEditorViewport: Clicking on Actor (LMB): BP_Safe_C (BP_Safe)
+[2019.05.05-18.09.23:300][ 42]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.05-18.09.27:291][516]LogTemp: Repeating last play command: Selected Viewport
+[2019.05.05-18.09.27:301][516]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.05.05-18.09.27:301][516]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.05.05-18.09.27:301][516]PIE: New page: PIE session: SideScrollerExampleMap (May 5, 2019, 10:09:27 AM)
+[2019.05.05-18.09.27:302][516]LogPlayLevel: Creating play world package: /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap
+[2019.05.05-18.09.27:308][516]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005705s)
+[2019.05.05-18.09.27:308][516]LogAIModule: Creating AISystem for world SideScrollerExampleMap
+[2019.05.05-18.09.27:308][516]LogPlayLevel: PIE: World Init took: (0.000387s)
+[2019.05.05-18.09.27:308][516]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap to /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap (0.006204s)
+[2019.05.05-18.09.27:332][516]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2019.05.05-18.09.27:342][516]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.05.05-18.09.27:366][516]LogInit: FAudioDevice initialized.
+[2019.05.05-18.09.27:395][516]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2019.05.05-18.09.27:397][516]LogWorld: Bringing World /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap up for play (max tick rate 0) at 2019.05.05-14.09.27
+[2019.05.05-18.09.27:398][516]LogWorld: Bringing up level for play took: 0.001781
+[2019.05.05-18.09.27:409][516]PIE: Play in editor start time for /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap -0.724
+[2019.05.05-18.09.27:409][516]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.05.05-18.09.32:091][ 75]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.05-18.09.38:765][866]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.05.05-18.09.38:766][866]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.05-18.09.38:794][866]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.05.05-18.09.38:794][866]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.05.05-18.09.38:826][866]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.05-18.09.38:829][866]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2019.05.05-18.09.38:881][868]LogPlayLevel: Display: Destroying online subsystem :Context_114
+[2019.05.05-18.09.40:505][ 62]LogEditorViewport: Clicking on Actor (LMB): BP_Safe_C (BP_Safe)
+[2019.05.05-18.09.45:278][621]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.05-18.09.45:346][629]LogTemp: Repeating last play command: Selected Viewport
+[2019.05.05-18.09.45:356][629]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.05.05-18.09.45:356][629]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.05.05-18.09.45:356][629]PIE: New page: PIE session: SideScrollerExampleMap (May 5, 2019, 10:09:45 AM)
+[2019.05.05-18.09.45:357][629]LogPlayLevel: Creating play world package: /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap
+[2019.05.05-18.09.45:363][629]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006013s)
+[2019.05.05-18.09.45:363][629]LogAIModule: Creating AISystem for world SideScrollerExampleMap
+[2019.05.05-18.09.45:364][629]LogPlayLevel: PIE: World Init took: (0.000401s)
+[2019.05.05-18.09.45:364][629]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap to /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap (0.006536s)
+[2019.05.05-18.09.45:392][629]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2019.05.05-18.09.45:401][629]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.05.05-18.09.45:425][629]LogInit: FAudioDevice initialized.
+[2019.05.05-18.09.45:450][629]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2019.05.05-18.09.45:452][629]LogWorld: Bringing World /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap up for play (max tick rate 0) at 2019.05.05-14.09.45
+[2019.05.05-18.09.45:453][629]LogWorld: Bringing up level for play took: 0.001809
+[2019.05.05-18.09.45:464][629]PIE: Play in editor start time for /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap -0.669
+[2019.05.05-18.09.45:465][629]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.05.05-18.09.46:956][805]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.05.05-18.09.46:956][805]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.05-18.09.46:986][805]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.05.05-18.09.46:986][805]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.05.05-18.09.47:017][805]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.05-18.09.47:020][805]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2019.05.05-18.09.47:062][807]LogPlayLevel: Display: Destroying online subsystem :Context_115
+[2019.05.05-18.09.47:460][854]Cmd: TRANSACTION UNDO
+[2019.05.05-18.09.47:461][854]LogEditorTransaction: Undo Move Actors
+[2019.05.05-18.09.47:468][854]LogMaterial: Display: Missing cached shader map for material Highlight, compiling. 
+[2019.05.05-18.09.47:813][889]Cmd: TRANSACTION UNDO
+[2019.05.05-18.09.47:813][889]LogEditorTransaction: Undo Move Actors
+[2019.05.05-18.09.47:817][889]LogMaterial: Display: Missing cached shader map for material Highlight, compiling. 
+[2019.05.05-18.09.48:398][951]Cmd: SELECT NONE
+[2019.05.05-18.09.49:214][ 44]MaterialEditorStats: Base pass shader without light map: 32 instructions
+[2019.05.05-18.09.49:214][ 44]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2019.05.05-18.09.49:214][ 44]MaterialEditorStats: Texture samplers: 2/16
+[2019.05.05-18.09.49:214][ 44]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(6)
+[2019.05.05-18.09.58:808][194]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.05-18.10.33:136][238]BlueprintLog: New page: Compile BP_Safe
+[2019.05.05-18.10.33:272][238]LogUObjectHash: Compacting FUObjectHashTables data took   2.42ms
+[2019.05.05-18.10.34:136][338]LogTemp: Repeating last play command: Selected Viewport
+[2019.05.05-18.10.34:150][338]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.05.05-18.10.34:150][338]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.05.05-18.10.34:150][338]PIE: New page: PIE session: SideScrollerExampleMap (May 5, 2019, 10:10:34 AM)
+[2019.05.05-18.10.34:151][338]LogPlayLevel: Creating play world package: /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap
+[2019.05.05-18.10.34:157][338]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005886s)
+[2019.05.05-18.10.34:158][338]LogAIModule: Creating AISystem for world SideScrollerExampleMap
+[2019.05.05-18.10.34:158][338]LogPlayLevel: PIE: World Init took: (0.000402s)
+[2019.05.05-18.10.34:158][338]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap to /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap (0.006403s)
+[2019.05.05-18.10.34:186][338]LogUObjectHash: Compacting FUObjectHashTables data took   2.19ms
+[2019.05.05-18.10.34:195][338]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.05.05-18.10.34:220][338]LogInit: FAudioDevice initialized.
+[2019.05.05-18.10.34:246][338]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2019.05.05-18.10.34:248][338]LogWorld: Bringing World /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap up for play (max tick rate 0) at 2019.05.05-14.10.34
+[2019.05.05-18.10.34:249][338]LogWorld: Bringing up level for play took: 0.001765
+[2019.05.05-18.10.34:260][338]PIE: Play in editor start time for /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap 0.127
+[2019.05.05-18.10.34:260][338]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.05.05-18.10.38:631][858]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.05-18.10.39:145][919]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.05.05-18.10.39:145][919]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.05-18.10.39:178][919]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.05.05-18.10.39:178][919]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.05.05-18.10.39:210][919]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.05-18.10.39:213][919]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
+[2019.05.05-18.10.39:250][921]LogPlayLevel: Display: Destroying online subsystem :Context_116
+[2019.05.05-18.10.50:340][220]LogEditorViewport: Clicking on Actor (LMB): SideScrollerCharacter_C (SideScrollerCharacter)
+[2019.05.05-18.10.50:420][223]LogEditorViewport: Clicking on Component (LMB): SkeletalMeshComponent (CharacterMesh0)
+[2019.05.05-18.10.52:234][436]LogEditorViewport: Clicking on Component (LMB): SkeletalMeshComponent (CharacterMesh0)
+[2019.05.05-18.10.52:279][439]LogEditorViewport: Clicking on Actor (double click): SideScrollerCharacter_C (SideScrollerCharacter)
+[2019.05.05-18.10.54:071][647]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.05-18.10.55:333][798]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.05-18.10.55:335][798]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter
+[2019.05.05-18.11.45:274][520]BlueprintLog: New page: Compile SideScrollerCharacter
+[2019.05.05-18.11.45:281][520]LogBlueprint: Error: [Compiler SideScrollerCharacter] The type of  Object  is undetermined.  Connect something to  Cast To BP_Safe  to imply a specific type.
+[2019.05.05-18.11.45:281][520]LogBlueprint: Error: [Compiler SideScrollerCharacter] The current value of the ' Object ' pin is invalid: Unsupported type Object Wildcard on pin Object
+[2019.05.05-18.11.45:473][520]LogUObjectHash: Compacting FUObjectHashTables data took   2.21ms
+[2019.05.05-18.11.45:487][520]LogBlueprint: Warning: [Compiler SideScrollerCharacter] [8078.41] Compile of SideScrollerCharacter failed. 2 Fatal Issue(s) 0 Warning(s) [in 212 ms] (/Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter)
+[2019.05.05-18.14.01:636][584]BlueprintLog: New page: Compile SideScrollerCharacter
+[2019.05.05-18.14.01:643][584]LogBlueprint: Warning: [Compiler SideScrollerCharacter] 'BP Safe' does not inherit from 'Game Mode Base' ( Cast To BP_Safe  would always fail).
+[2019.05.05-18.14.01:837][584]LogUObjectHash: Compacting FUObjectHashTables data took   2.83ms
+[2019.05.05-18.14.01:854][584]LogBlueprint: Warning: [Compiler SideScrollerCharacter] [8214.78] Compile of SideScrollerCharacter successful, but with 1 Warning(s) [in 217 ms] (/Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter)
+[2019.05.05-18.14.26:842][509]BlueprintLog: New page: Compile SideScrollerCharacter
+[2019.05.05-18.14.26:845][509]LogBlueprint: Error: [Compiler SideScrollerCharacter] The type of  Object  is undetermined.  Connect something to  Cast To BP_Safe  to imply a specific type.
+[2019.05.05-18.14.26:845][509]LogBlueprint: Error: [Compiler SideScrollerCharacter] The current value of the ' Object ' pin is invalid: Unsupported type Wildcard on pin Object
+[2019.05.05-18.14.27:035][509]LogUObjectHash: Compacting FUObjectHashTables data took   2.54ms
+[2019.05.05-18.14.27:052][509]LogBlueprint: Warning: [Compiler SideScrollerCharacter] [8239.98] Compile of SideScrollerCharacter failed. 2 Fatal Issue(s) 0 Warning(s) [in 209 ms] (/Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter)
+[2019.05.05-18.14.33:487][256]BlueprintLog: New page: Compile SideScrollerCharacter
+[2019.05.05-18.14.33:489][256]LogBlueprint: Warning: [Compiler SideScrollerCharacter] 'BP Safe' does not inherit from 'Static Mesh Component' ( Cast To BP_Safe  would always fail).
+[2019.05.05-18.14.33:490][256]LogBlueprint: Error: [Compiler SideScrollerCharacter] This blueprint (self) is not a BP_Safe_C, therefore ' Target ' must have a connection.
+[2019.05.05-18.14.33:494][256]LogBlueprint: Error: [Compiler SideScrollerCharacter] Variable node  Get Safe  uses an invalid target.  It may depend on a node that is not connected to the execution chain, and got purged.
+[2019.05.05-18.14.33:689][256]LogUObjectHash: Compacting FUObjectHashTables data took   2.56ms
+[2019.05.05-18.14.33:703][256]LogBlueprint: Warning: [Compiler SideScrollerCharacter] [8246.63] Compile of SideScrollerCharacter failed. 2 Fatal Issue(s) 1 Warning(s) [in 215 ms] (/Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter)
+[2019.05.05-18.15.27:541][133]BlueprintLog: New page: Compile SideScrollerCharacter
+[2019.05.05-18.15.27:740][133]LogUObjectHash: Compacting FUObjectHashTables data took   2.56ms
+[2019.05.05-18.15.34:079][616]LogSlate: Window 'BP_Safe' being destroyed
+[2019.05.05-18.15.35:760][813]LogSlate: Window 'Highlight' being destroyed
+[2019.05.05-18.15.43:694][721]LogSavePackage: Moving '../../../../../../Users/Dragos/Desktop/Sogarde Studios/Black Hat/Black-Hat/Black_Hat/Saved/SideScrollerCharacter5D7BED3F4B9D131CD3AE11BF10DD69F6.tmp' to '../../../../../../Users/Dragos/Desktop/Sogarde Studios/Black Hat/Black-Hat/Black_Hat/Content/SideScrollerBP/Blueprints/SideScrollerCharacter.uasset'
+[2019.05.05-18.16.20:147][ 31]BlueprintLog: New page: Compile BP_Safe
+[2019.05.05-18.16.20:285][ 31]LogUObjectHash: Compacting FUObjectHashTables data took   2.41ms
+[2019.05.05-18.18.37:847][319]LogUObjectHash: Compacting FUObjectHashTables data took   3.44ms
+[2019.05.05-18.18.38:018][319]LogSavePackage: Moving '../../../../../../Users/Dragos/Desktop/Sogarde Studios/Black Hat/Black-Hat/Black_Hat/Saved/SideScrollerExampleMap_Auto026B16C8D4C0B01EC86A30DA31A1B1F02.tmp' to '../../../../../../Users/Dragos/Desktop/Sogarde Studios/Black Hat/Black-Hat/Black_Hat/Saved/Autosaves/Game/SideScrollerBP/Maps/SideScrollerExampleMap_Auto0.umap'
+[2019.05.05-18.18.38:020][319]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/SideScrollerBP/Maps/SideScrollerExampleMap' took 0.230
+[2019.05.05-18.18.38:020][319]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.230
+[2019.05.05-18.18.38:021][319]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/HQ_ResidentialHouse/Actors/BP_Safe] ([1] browsable assets)...
+[2019.05.05-18.18.38:031][319]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/HQ_ResidentialHouse/Actors/BP_Safe.BP_Safe]
+[2019.05.05-18.18.38:031][319]OBJ SavePackage: Finished generating thumbnails for package [/Game/HQ_ResidentialHouse/Actors/BP_Safe]
+[2019.05.05-18.18.38:057][319]LogSavePackage: Moving '../../../../../../Users/Dragos/Desktop/Sogarde Studios/Black Hat/Black-Hat/Black_Hat/Saved/BP_Safe_Auto0FF1E4A0B462680304864689F5FB8627A.tmp' to '../../../../../../Users/Dragos/Desktop/Sogarde Studios/Black Hat/Black-Hat/Black_Hat/Saved/Autosaves/Game/HQ_ResidentialHouse/Actors/BP_Safe_Auto0.uasset'
+[2019.05.05-18.18.38:058][319]LogFileHelpers: Auto-saving content packages took 0.037
+[2019.05.05-18.23.06:142][824]BlueprintLog: New page: Compile BP_Safe
+[2019.05.05-18.23.06:284][824]LogUObjectHash: Compacting FUObjectHashTables data took   2.64ms
+[2019.05.05-18.23.21:398][854]LogSavePackage: Moving '../../../../../../Users/Dragos/Desktop/Sogarde Studios/Black Hat/Black-Hat/Black_Hat/Saved/BP_Safe41EAD7C44660CF921C318D8B51AAE4DD.tmp' to '../../../../../../Users/Dragos/Desktop/Sogarde Studios/Black Hat/Black-Hat/Black_Hat/Content/HQ_ResidentialHouse/Actors/BP_Safe.uasset'
+[2019.05.05-18.24.35:396][698]LogSelectionDetails: Warning: NavigateToFunctionSource:  Unable to find symbols for 'UPrimitiveComponent::SetRenderCustomDepth' [Element not found.]
+[2019.05.05-18.24.55:575][ 97]BlueprintLog: New page: Compile BP_Safe
+[2019.05.05-18.24.55:730][ 97]LogUObjectHash: Compacting FUObjectHashTables data took   2.67ms
+[2019.05.05-18.24.56:576][186]LogSavePackage: Moving '../../../../../../Users/Dragos/Desktop/Sogarde Studios/Black Hat/Black-Hat/Black_Hat/Saved/BP_Safe7942C2514203EF7455BE68B36606D6E7.tmp' to '../../../../../../Users/Dragos/Desktop/Sogarde Studios/Black Hat/Black-Hat/Black_Hat/Content/HQ_ResidentialHouse/Actors/BP_Safe.uasset'
+[2019.05.05-18.24.57:489][287]Cmd: SELECT NONE
+[2019.05.05-18.24.58:253][378]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.05-18.24.58:312][385]LogTemp: Repeating last play command: Selected Viewport
+[2019.05.05-18.24.58:331][385]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.05.05-18.24.58:331][385]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.05.05-18.24.58:331][385]PIE: New page: PIE session: SideScrollerExampleMap (May 5, 2019, 10:24:58 AM)
+[2019.05.05-18.24.58:331][385]LogPlayLevel: Creating play world package: /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap
+[2019.05.05-18.24.58:337][385]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005920s)
+[2019.05.05-18.24.58:337][385]LogAIModule: Creating AISystem for world SideScrollerExampleMap
+[2019.05.05-18.24.58:337][385]LogPlayLevel: PIE: World Init took: (0.000461s)
+[2019.05.05-18.24.58:338][385]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap to /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap (0.006503s)
+[2019.05.05-18.24.58:368][385]LogUObjectHash: Compacting FUObjectHashTables data took   2.36ms
+[2019.05.05-18.24.58:378][385]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.05.05-18.24.58:402][385]LogInit: FAudioDevice initialized.
+[2019.05.05-18.24.58:433][385]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2019.05.05-18.24.58:435][385]LogWorld: Bringing World /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap up for play (max tick rate 0) at 2019.05.05-14.24.58
+[2019.05.05-18.24.58:435][385]LogWorld: Bringing up level for play took: 0.001944
+[2019.05.05-18.24.58:447][385]PIE: Play in editor start time for /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap 0.314
+[2019.05.05-18.24.58:448][385]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.05.05-18.25.05:767][259]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.05-18.25.14:142][254]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.05.05-18.25.14:142][254]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.05-18.25.14:178][254]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.05.05-18.25.14:178][254]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.05.05-18.25.14:211][254]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.05-18.25.14:214][254]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2019.05.05-18.25.14:242][255]LogPlayLevel: Display: Destroying online subsystem :Context_118
+[2019.05.05-18.25.16:118][480]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.05-18.25.16:185][488]LogTemp: Repeating last play command: Selected Viewport
+[2019.05.05-18.25.16:195][488]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.05.05-18.25.16:195][488]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.05.05-18.25.16:195][488]PIE: New page: PIE session: SideScrollerExampleMap (May 5, 2019, 10:25:16 AM)
+[2019.05.05-18.25.16:197][488]LogPlayLevel: Creating play world package: /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap
+[2019.05.05-18.25.16:203][488]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006081s)
+[2019.05.05-18.25.16:203][488]LogAIModule: Creating AISystem for world SideScrollerExampleMap
+[2019.05.05-18.25.16:203][488]LogPlayLevel: PIE: World Init took: (0.000396s)
+[2019.05.05-18.25.16:203][488]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap to /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap (0.006591s)
+[2019.05.05-18.25.16:232][488]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2019.05.05-18.25.16:242][488]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.05.05-18.25.16:265][488]LogInit: FAudioDevice initialized.
+[2019.05.05-18.25.16:292][488]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2019.05.05-18.25.16:294][488]LogWorld: Bringing World /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap up for play (max tick rate 0) at 2019.05.05-14.25.16
+[2019.05.05-18.25.16:294][488]LogWorld: Bringing up level for play took: 0.002056
+[2019.05.05-18.25.16:306][488]PIE: Play in editor start time for /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap 0.173
+[2019.05.05-18.25.16:306][488]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.05.05-18.25.24:023][410]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.05.05-18.25.24:023][410]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.05-18.25.24:058][410]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.05.05-18.25.24:058][410]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.05.05-18.25.24:092][410]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.05-18.25.24:095][410]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2019.05.05-18.25.24:123][411]LogPlayLevel: Display: Destroying online subsystem :Context_119
+[2019.05.05-18.26.01:334][824]BlueprintLog: New page: Compile BP_Safe
+[2019.05.05-18.26.01:474][824]LogUObjectHash: Compacting FUObjectHashTables data took   2.50ms
+[2019.05.05-18.26.07:874][272]LogTemp: Repeating last play command: Selected Viewport
+[2019.05.05-18.26.07:888][272]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.05.05-18.26.07:888][272]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.05.05-18.26.07:889][272]PIE: New page: PIE session: SideScrollerExampleMap (May 5, 2019, 10:26:07 AM)
+[2019.05.05-18.26.07:890][272]LogPlayLevel: Creating play world package: /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap
+[2019.05.05-18.26.07:895][272]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005768s)
+[2019.05.05-18.26.07:896][272]LogAIModule: Creating AISystem for world SideScrollerExampleMap
+[2019.05.05-18.26.07:896][272]LogPlayLevel: PIE: World Init took: (0.000391s)
+[2019.05.05-18.26.07:896][272]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap to /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap (0.006282s)
+[2019.05.05-18.26.07:926][272]LogUObjectHash: Compacting FUObjectHashTables data took   2.29ms
+[2019.05.05-18.26.07:936][272]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.05.05-18.26.07:960][272]LogInit: FAudioDevice initialized.
+[2019.05.05-18.26.07:983][272]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2019.05.05-18.26.07:985][272]LogWorld: Bringing World /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap up for play (max tick rate 0) at 2019.05.05-14.26.07
+[2019.05.05-18.26.07:986][272]LogWorld: Bringing up level for play took: 0.001869
+[2019.05.05-18.26.07:998][272]PIE: Play in editor start time for /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap -0.135
+[2019.05.05-18.26.07:999][272]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.05.05-18.26.10:459][562]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.05-18.26.12:579][815]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.05.05-18.26.12:579][815]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.05-18.26.12:614][815]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.05.05-18.26.12:614][815]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.05.05-18.26.12:647][815]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.05-18.26.12:650][815]LogUObjectHash: Compacting FUObjectHashTables data took   1.85ms
+[2019.05.05-18.26.12:681][816]LogPlayLevel: Display: Destroying online subsystem :Context_120
+[2019.05.05-18.26.17:945][ 50]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.05-18.26.18:702][138]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.05-18.26.38:845][462]BlueprintLog: New page: Compile BP_Safe
+[2019.05.05-18.26.38:984][462]LogUObjectHash: Compacting FUObjectHashTables data took   2.53ms
+[2019.05.05-18.26.39:713][540]LogSavePackage: Moving '../../../../../../Users/Dragos/Desktop/Sogarde Studios/Black Hat/Black-Hat/Black_Hat/Saved/BP_SafeAFAFEEA5408730A47A1BB09D223131E0.tmp' to '../../../../../../Users/Dragos/Desktop/Sogarde Studios/Black Hat/Black-Hat/Black_Hat/Content/HQ_ResidentialHouse/Actors/BP_Safe.uasset'
+[2019.05.05-18.26.40:505][632]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.05-18.26.40:546][637]LogTemp: Repeating last play command: Selected Viewport
+[2019.05.05-18.26.40:561][637]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.05.05-18.26.40:561][637]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.05.05-18.26.40:561][637]PIE: New page: PIE session: SideScrollerExampleMap (May 5, 2019, 10:26:40 AM)
+[2019.05.05-18.26.40:562][637]LogPlayLevel: Creating play world package: /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap
+[2019.05.05-18.26.40:568][637]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006064s)
+[2019.05.05-18.26.40:569][637]LogAIModule: Creating AISystem for world SideScrollerExampleMap
+[2019.05.05-18.26.40:569][637]LogPlayLevel: PIE: World Init took: (0.000429s)
+[2019.05.05-18.26.40:569][637]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap to /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap (0.006613s)
+[2019.05.05-18.26.40:599][637]LogUObjectHash: Compacting FUObjectHashTables data took   2.30ms
+[2019.05.05-18.26.40:609][637]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.05.05-18.26.40:630][637]LogInit: FAudioDevice initialized.
+[2019.05.05-18.26.40:659][637]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2019.05.05-18.26.40:662][637]LogWorld: Bringing World /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap up for play (max tick rate 0) at 2019.05.05-14.26.40
+[2019.05.05-18.26.40:662][637]LogWorld: Bringing up level for play took: 0.002016
+[2019.05.05-18.26.40:674][637]PIE: Play in editor start time for /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap 0.541
+[2019.05.05-18.26.40:679][637]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.05.05-18.26.57:701][936]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.05-18.26.59:652][133]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.05.05-18.26.59:653][133]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.05-18.26.59:685][133]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.05.05-18.26.59:685][133]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.05.05-18.26.59:718][133]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.05-18.26.59:721][133]LogUObjectHash: Compacting FUObjectHashTables data took   1.82ms
+[2019.05.05-18.26.59:756][134]LogPlayLevel: Display: Destroying online subsystem :Context_121
+[2019.05.05-18.27.57:933][653]LogEditorViewport: Clicking on Actor (LMB): BP_Safe_C (BP_Safe)
+[2019.05.05-18.28.03:048][153]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.05-18.28.04:749][330]LogEditorViewport: Clicking on Actor (LMB): BP_Safe_C (BP_Safe)
+[2019.05.05-18.28.06:300][489]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.05-18.28.08:628][735]Cmd: SELECT NONE
+[2019.05.05-18.28.12:937][179]Cmd: SELECT NONE
+[2019.05.05-18.28.13:694][257]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.05-18.28.14:051][299]LogTemp: Repeating last play command: Selected Viewport
+[2019.05.05-18.28.14:062][299]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.05.05-18.28.14:062][299]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.05.05-18.28.14:062][299]PIE: New page: PIE session: SideScrollerExampleMap (May 5, 2019, 10:28:14 AM)
+[2019.05.05-18.28.14:063][299]LogPlayLevel: Creating play world package: /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap
+[2019.05.05-18.28.14:069][299]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006057s)
+[2019.05.05-18.28.14:070][299]LogAIModule: Creating AISystem for world SideScrollerExampleMap
+[2019.05.05-18.28.14:070][299]LogPlayLevel: PIE: World Init took: (0.000532s)
+[2019.05.05-18.28.14:070][299]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap to /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap (0.006795s)
+[2019.05.05-18.28.14:103][299]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2019.05.05-18.28.14:114][299]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.05.05-18.28.14:141][299]LogInit: FAudioDevice initialized.
+[2019.05.05-18.28.14:170][299]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2019.05.05-18.28.14:172][299]LogWorld: Bringing World /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap up for play (max tick rate 0) at 2019.05.05-14.28.14
+[2019.05.05-18.28.14:173][299]LogWorld: Bringing up level for play took: 0.001797
+[2019.05.05-18.28.14:184][299]PIE: Play in editor start time for /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap 0.05
+[2019.05.05-18.28.14:184][299]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.05.05-18.28.20:944][ 78]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.05.05-18.28.20:944][ 78]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.05-18.28.20:976][ 78]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.05.05-18.28.20:976][ 78]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.05.05-18.28.21:013][ 78]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.05-18.28.21:016][ 78]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2019.05.05-18.28.21:053][ 79]LogPlayLevel: Display: Destroying online subsystem :Context_122
+[2019.05.05-18.29.50:485][857]LogUObjectHash: Compacting FUObjectHashTables data took   2.48ms
+[2019.05.05-18.29.50:661][857]LogSavePackage: Moving '../../../../../../Users/Dragos/Desktop/Sogarde Studios/Black Hat/Black-Hat/Black_Hat/Saved/SideScrollerExampleMap_Auto1F54FC5224D4FE61717994A8480653D06.tmp' to '../../../../../../Users/Dragos/Desktop/Sogarde Studios/Black Hat/Black-Hat/Black_Hat/Saved/Autosaves/Game/SideScrollerBP/Maps/SideScrollerExampleMap_Auto1.umap'
+[2019.05.05-18.29.50:664][857]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/SideScrollerBP/Maps/SideScrollerExampleMap' took 0.212
+[2019.05.05-18.29.50:664][857]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.212
+[2019.05.05-18.29.50:666][857]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/HQ_ResidentialHouse/Actors/BP_Safe] ([1] browsable assets)...
+[2019.05.05-18.29.50:675][857]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/HQ_ResidentialHouse/Actors/BP_Safe.BP_Safe]
+[2019.05.05-18.29.50:675][857]OBJ SavePackage: Finished generating thumbnails for package [/Game/HQ_ResidentialHouse/Actors/BP_Safe]
+[2019.05.05-18.29.50:697][857]LogSavePackage: Moving '../../../../../../Users/Dragos/Desktop/Sogarde Studios/Black Hat/Black-Hat/Black_Hat/Saved/BP_Safe_Auto1F64359CE4F753F0642A44EAB5F30F83C.tmp' to '../../../../../../Users/Dragos/Desktop/Sogarde Studios/Black Hat/Black-Hat/Black_Hat/Saved/Autosaves/Game/HQ_ResidentialHouse/Actors/BP_Safe_Auto1.uasset'
+[2019.05.05-18.29.50:697][857]LogFileHelpers: Auto-saving content packages took 0.032
+[2019.05.05-18.29.57:903][699]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.05-18.30.38:766][389]BlueprintLog: New page: Compile BP_Safe
+[2019.05.05-18.30.38:919][389]LogUObjectHash: Compacting FUObjectHashTables data took   2.67ms
+[2019.05.05-18.30.47:652][329]Cmd: SELECT NONE
+[2019.05.05-18.30.49:054][494]LogTemp: Repeating last play command: Selected Viewport
+[2019.05.05-18.30.49:070][494]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.05.05-18.30.49:070][494]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.05.05-18.30.49:071][494]PIE: New page: PIE session: SideScrollerExampleMap (May 5, 2019, 10:30:49 AM)
+[2019.05.05-18.30.49:072][494]LogPlayLevel: Creating play world package: /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap
+[2019.05.05-18.30.49:078][494]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005953s)
+[2019.05.05-18.30.49:079][494]LogAIModule: Creating AISystem for world SideScrollerExampleMap
+[2019.05.05-18.30.49:079][494]LogPlayLevel: PIE: World Init took: (0.001035s)
+[2019.05.05-18.30.49:079][494]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap to /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap (0.007149s)
+[2019.05.05-18.30.49:108][494]LogUObjectHash: Compacting FUObjectHashTables data took   2.66ms
+[2019.05.05-18.30.49:119][494]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.05.05-18.30.49:145][494]LogInit: FAudioDevice initialized.
+[2019.05.05-18.30.49:175][494]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2019.05.05-18.30.49:177][494]LogWorld: Bringing World /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap up for play (max tick rate 0) at 2019.05.05-14.30.49
+[2019.05.05-18.30.49:177][494]LogWorld: Bringing up level for play took: 0.002434
+[2019.05.05-18.30.49:190][494]PIE: Play in editor start time for /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap 1.056
+[2019.05.05-18.30.49:190][494]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.05.05-18.30.54:863][ 57]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.05-18.30.55:558][138]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.05.05-18.30.55:559][138]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.05-18.30.55:595][138]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.05.05-18.30.55:595][138]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.05.05-18.30.55:630][138]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.05-18.30.55:633][138]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2019.05.05-18.30.55:666][139]LogPlayLevel: Display: Destroying online subsystem :Context_123
+[2019.05.05-18.30.57:798][390]BlueprintLog: New page: Compile BP_Safe
+[2019.05.05-18.30.57:799][390]LogBlueprint: Error: [Compiler BP_Safe] This blueprint (self) is not a Button, therefore ' Target ' must have a connection.
+[2019.05.05-18.30.57:951][390]LogUObjectHash: Compacting FUObjectHashTables data took   2.19ms
+[2019.05.05-18.30.57:962][390]LogBlueprint: Warning: [Compiler BP_Safe] [9230.89] Compile of BP_Safe failed. 1 Fatal Issue(s) 0 Warning(s) [in 164 ms] (/Game/HQ_ResidentialHouse/Actors/BP_Safe.BP_Safe)
+[2019.05.05-18.30.58:443][440]LogSavePackage: Moving '../../../../../../Users/Dragos/Desktop/Sogarde Studios/Black Hat/Black-Hat/Black_Hat/Saved/BP_Safe7D21ED434F1539B326A3C982574A6798.tmp' to '../../../../../../Users/Dragos/Desktop/Sogarde Studios/Black Hat/Black-Hat/Black_Hat/Content/HQ_ResidentialHouse/Actors/BP_Safe.uasset'
+[2019.05.05-18.31.05:575][281]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.05-18.32.36:565][899]BlueprintLog: New page: Compile BP_Safe
+[2019.05.05-18.32.36:718][899]LogUObjectHash: Compacting FUObjectHashTables data took   2.82ms
+[2019.05.05-18.32.37:164][944]LogSavePackage: Moving '../../../../../../Users/Dragos/Desktop/Sogarde Studios/Black Hat/Black-Hat/Black_Hat/Saved/BP_Safe0E55BAB94ACDF081CC03FDBAEBED2EBE.tmp' to '../../../../../../Users/Dragos/Desktop/Sogarde Studios/Black Hat/Black-Hat/Black_Hat/Content/HQ_ResidentialHouse/Actors/BP_Safe.uasset'
+[2019.05.05-18.32.42:303][291]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.05-18.32.42:376][298]LogTemp: Repeating last play command: Selected Viewport
+[2019.05.05-18.32.42:395][298]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.05.05-18.32.42:395][298]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.05.05-18.32.42:395][298]PIE: New page: PIE session: SideScrollerExampleMap (May 5, 2019, 10:32:42 AM)
+[2019.05.05-18.32.42:396][298]LogPlayLevel: Creating play world package: /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap
+[2019.05.05-18.32.42:402][298]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005982s)
+[2019.05.05-18.32.42:402][298]LogAIModule: Creating AISystem for world SideScrollerExampleMap
+[2019.05.05-18.32.42:402][298]LogPlayLevel: PIE: World Init took: (0.000402s)
+[2019.05.05-18.32.42:403][298]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap to /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap (0.006522s)
+[2019.05.05-18.32.42:437][298]LogUObjectHash: Compacting FUObjectHashTables data took   2.55ms
+[2019.05.05-18.32.42:452][298]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.05.05-18.32.42:486][298]LogInit: FAudioDevice initialized.
+[2019.05.05-18.32.42:517][298]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2019.05.05-18.32.42:520][298]LogWorld: Bringing World /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap up for play (max tick rate 0) at 2019.05.05-14.32.42
+[2019.05.05-18.32.42:520][298]LogWorld: Bringing up level for play took: 0.002142
+[2019.05.05-18.32.42:532][298]PIE: Play in editor start time for /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap 0.399
+[2019.05.05-18.32.42:533][298]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.05.05-18.32.48:312][517]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.05-18.32.53:103][ 72]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.05.05-18.32.53:103][ 72]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.05-18.32.53:133][ 72]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.05.05-18.32.53:133][ 72]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.05.05-18.32.53:170][ 72]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.05-18.32.53:174][ 72]LogUObjectHash: Compacting FUObjectHashTables data took   1.85ms
+[2019.05.05-18.32.53:206][ 73]LogPlayLevel: Display: Destroying online subsystem :Context_124
+[2019.05.05-18.37.52:508][175]BlueprintLog: New page: Compile BP_Safe
+[2019.05.05-18.37.52:671][175]LogUObjectHash: Compacting FUObjectHashTables data took   2.71ms
+[2019.05.05-18.37.53:052][212]LogSavePackage: Moving '../../../../../../Users/Dragos/Desktop/Sogarde Studios/Black Hat/Black-Hat/Black_Hat/Saved/BP_SafeADCA9B8745A18E663606EFBEB7C394B2.tmp' to '../../../../../../Users/Dragos/Desktop/Sogarde Studios/Black Hat/Black-Hat/Black_Hat/Content/HQ_ResidentialHouse/Actors/BP_Safe.uasset'
+[2019.05.05-18.37.54:161][340]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.05-18.37.55:245][469]LogEditorViewport: Clicking Background
+[2019.05.05-18.37.56:188][577]LogEditorViewport: Clicking on Actor (LMB): BP_Safe_C (BP_Safe)
+[2019.05.05-18.37.57:506][727]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.05-18.38.02:898][360]LogEditorViewport: Clicking on Actor (LMB): SideScrollerCharacter_C (SideScrollerCharacter)
+[2019.05.05-18.38.03:967][475]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.05-18.38.17:872][121]Cmd: SELECT NONE
+[2019.05.05-18.38.26:387][139]LogEditorViewport: Clicking on Actor (context menu): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2019.05.05-18.38.26:413][139]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.05-18.43.05:358][ 48]LogEditorViewport: Clicking on Actor (LMB): SideScrollerCharacter_C (SideScrollerCharacter)
+[2019.05.05-18.43.14:730][159]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.05-18.43.20:637][845]Cmd: DELETE
+[2019.05.05-18.43.20:637][845]Cmd: ACTOR DELETE
+[2019.05.05-18.43.20:640][845]LogEditorActor: Deleted Actor: SideScrollerCharacter_C
+[2019.05.05-18.43.20:673][845]LogUObjectHash: Compacting FUObjectHashTables data took   2.68ms
+[2019.05.05-18.43.20:674][845]LogEditorActor: Deleted 1 Actors (0.036 secs)
+[2019.05.05-18.43.21:537][948]Cmd: SELECT NONE
+[2019.05.05-18.43.22:973][120]Cmd: TRANSACTION UNDO
+[2019.05.05-18.43.22:973][120]LogEditorTransaction: Undo Select None
+[2019.05.05-18.43.22:975][120]LogMaterial: Display: Missing cached shader map for material Highlight, compiling. 
+[2019.05.05-18.43.23:927][227]MaterialEditorStats: Base pass shader without light map: 32 instructions
+[2019.05.05-18.43.23:927][227]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2019.05.05-18.43.23:927][227]MaterialEditorStats: Texture samplers: 2/16
+[2019.05.05-18.43.23:927][227]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(6)
+[2019.05.05-18.43.23:943][229]Cmd: TRANSACTION UNDO
+[2019.05.05-18.43.23:943][229]LogEditorTransaction: Undo Delete Actors
+[2019.05.05-18.43.23:982][229]LogMaterial: Display: Missing cached shader map for material Highlight, compiling. 
+[2019.05.05-18.43.24:913][318]MaterialEditorStats: Base pass shader without light map: 32 instructions
+[2019.05.05-18.43.24:913][318]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2019.05.05-18.43.24:913][318]MaterialEditorStats: Texture samplers: 2/16
+[2019.05.05-18.43.24:913][318]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(6)
+[2019.05.05-18.43.38:243][810]Cmd: SELECT NONE
+[2019.05.05-18.43.40:194][ 35]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.05-18.43.40:299][ 43]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2019.05.05-18.43.40:471][ 43]LogSavePackage: Moving '../../../../../../Users/Dragos/Desktop/Sogarde Studios/Black Hat/Black-Hat/Black_Hat/Saved/SideScrollerExampleMapC1862E09434073FD5C4A54AC9D5EF1C7.tmp' to '../../../../../../Users/Dragos/Desktop/Sogarde Studios/Black Hat/Black-Hat/Black_Hat/Content/SideScrollerBP/Maps/SideScrollerExampleMap.umap'
+[2019.05.05-18.43.40:621][ 43]LogSavePackage: Moving '../../../../../../Users/Dragos/Desktop/Sogarde Studios/Black Hat/Black-Hat/Black_Hat/Saved/SideScrollerExampleMap_BuiltData0508586541E839BFEBE0DA880EFEDAAE.tmp' to '../../../../../../Users/Dragos/Desktop/Sogarde Studios/Black Hat/Black-Hat/Black_Hat/Content/SideScrollerBP/Maps/SideScrollerExampleMap_BuiltData.uasset'
